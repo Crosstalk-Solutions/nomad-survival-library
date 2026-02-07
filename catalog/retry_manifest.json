@@ -1,0 +1,864 @@
+{
+  "retry_date": "2026-02-07T09:16:42.340500",
+  "total_retried": 137,
+  "newly_successful": 16,
+  "still_failed": 121,
+  "new_items": [
+    {
+      "filename": "You-Alone-in-the-Maine-Woods.pdf",
+      "title": "You Alone in the Maine Woods",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/1.-You-Alone-in-the-Maine-Woods-Author-Michael-F-Richard-Brad-Rounds-Bryan-Courtois.pdf",
+      "sha256": "c6fa32ef6e45dafe9d82fdd256be1959898518ff6160d3f24fc6117bd7a6c68f",
+      "size_bytes": 4517827
+    },
+    {
+      "filename": "Survival-Calvin-Crest.pdf",
+      "title": "Survival - Calvin Crest",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/3.-Survival-Author-Calvin-Crest.pdf",
+      "sha256": "ecde1d693345462a2af330089128e0286efb0b3a687684bd0963c46167656c4f",
+      "size_bytes": 465322
+    },
+    {
+      "filename": "Ultimate-Survival-Skills-Guide.pdf",
+      "title": "Ultimate Survival Skills Guide",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/5.-Ultimate-Survival-Skills-Guide-Author-Joe-Marshall.pdf",
+      "sha256": "d404f2a6a4adaa4667eb85343d5effc4b2fb61f84421a16509e7d77917a150c9",
+      "size_bytes": 323817
+    },
+    {
+      "filename": "Wilderness-Survival.pdf",
+      "title": "Wilderness Survival",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/2.-Wilderness-Survival-Author-Survivor-Library.pdf",
+      "sha256": "14c140f3b1c0f906c223a11e0183a02c7b37e16006c43298fb0b91508c82a6d3",
+      "size_bytes": 280025
+    },
+    {
+      "filename": "The-Elements-of-Surviving.pdf",
+      "title": "The Elements of Surviving",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/4.-The-Elements-of-Surviving-Author-Saint-Paul-Public-Schools.pdf",
+      "sha256": "c537e73be27825e15b05d0ba4c5c398e6147ac760c3cba6f3cf0fb8dd688d527",
+      "size_bytes": 228685
+    },
+    {
+      "filename": "Survival-Civil-Aviation-Authority-NZ.pdf",
+      "title": "Survival - Civil Aviation Authority NZ",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/6.-Survival-Author-Civil-Aviation-Authority-of-New-Zealand.pdf",
+      "sha256": "58c75a58c1c93e5cddf3c3dc8e8389b1cdfbfacea14548fda399cea4620c2c79",
+      "size_bytes": 1067030
+    },
+    {
+      "filename": "101-Ways-To-Start-A-Fire.pdf",
+      "title": "101 Ways To Start A Fire",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/8.-A-Long-Term-Survival-Guide-101-Ways-To-Start-A-Fire-Author-Survival-Ready-Blog.pdf",
+      "sha256": "d43053bee9a92a5ea55522e960dbf372b0ad98af6eac074450d7cbdc2c7d7585",
+      "size_bytes": 2498359
+    },
+    {
+      "filename": "Survival-Skills-101.pdf",
+      "title": "Survival Skills 101",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/9.-Survival-Skills-101-Author-Jason-Stevenson-Alison-Fromme.pdf",
+      "sha256": "d232e69d67b989c1e8750cabad690a6eabd31f4d13f70b4b9efe4c89aafaf51f",
+      "size_bytes": 1167506
+    },
+    {
+      "filename": "Winter-Survival-in-the-Backcountry.pdf",
+      "title": "Winter Survival in the Backcountry",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/10.-Winter-survival-in-the-backcountry-inter-survival-in-the-backcountry-Author-Albertas-Parks.pdf",
+      "sha256": "a943290cb751569238715e07b1ab6b96cf868781cde344fade9ebbf85438acb4",
+      "size_bytes": 233011
+    },
+    {
+      "filename": "Burning-Man-Family-Survival-Guide.pdf",
+      "title": "Burning Man Family Survival Guide",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/12.-Burning-Man-Family-Survival-Guide-Author-Burning-Man.pdf",
+      "sha256": "d28f1d82f41822beff1151347c73c7ed52817e13ddbdd3fd4608a83ad380ce67",
+      "size_bytes": 513348
+    },
+    {
+      "filename": "How-to-Use-a-Compass.pdf",
+      "title": "How to Use a Compass",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/11.-How-to-use-a-compass-Author-Camp-Allatoona-Aquatics-Base.pdf",
+      "sha256": "a928b9f3e6bdb92dff88d9845269e41634a3882890f2863958f1d1936c1d0019",
+      "size_bytes": 665052
+    },
+    {
+      "filename": "How-to-Go-Winter-Camping-and-Backpacking.pdf",
+      "title": "How to Go Winter Camping and Backpacking",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/14.-How-to-Go-Winter-Camping-and-Backpacking-Author-Heart-of-America-Council.pdf",
+      "sha256": "e6e635362f3855871aa91bf173b0986e5ebd4fd28629e016f76d689cd48a6347",
+      "size_bytes": 67788
+    },
+    {
+      "filename": "Outback-Survival.pdf",
+      "title": "Outback Survival",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/15.-Outback-Survival-Author-Gordon-Dedman.pdf",
+      "sha256": "1159e3f0c6e0bff6e719ab4aacb900cf7cbd60df0b8a32858e4ff9641903a31a",
+      "size_bytes": 614892
+    },
+    {
+      "filename": "North-American-Basic-Wilderness-Survival-Skills-Manual.pdf",
+      "title": "North American Basic Wilderness Survival Skills Manual",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/North-American-Basic-Wilderness-Survival-Skills-Manual-Robert-Allen.pdf",
+      "sha256": "d540cfac6fc2a23ffead17488c1be8b800dfeabe2882f3770a3cd27801985955",
+      "size_bytes": 1081997
+    },
+    {
+      "filename": "Shelter-Construction-Techniques-for-Moderate-Weather.pdf",
+      "title": "Shelter Construction Techniques for Moderate Weather",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/Shelter-Construction-Techniques-for-Moderate-Weather-Nick-Weighton.pdf",
+      "sha256": "ea441c06e85b8d48f03cbce72a97679d4c2ab5644a646e8c3e2ddcecefc66be9",
+      "size_bytes": 1008203
+    },
+    {
+      "filename": "Shelter-Building-Designs.pdf",
+      "title": "Shelter Building Designs",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/Shelter-Building-Designs-York-Ebor-District-Scouts.pdf",
+      "sha256": "ff589d045bc7ddbd06cf3b2d0f353e05679bf893bc3f3b8d459c9a8a0ed4a3df",
+      "size_bytes": 380539
+    }
+  ],
+  "remaining_failures": [
+    {
+      "title": "Composting - How to Make Fertilizer",
+      "url": "http://kazvswild.com/wp-content/uploads/2015/04/composting-how-to-make-fertilizer.pdf",
+      "source": "scp",
+      "error": "Wayback returned non-PDF content"
+    },
+    {
+      "title": "Greenhouse Whitefly Control",
+      "url": "http://kazvswild.com/wp-content/uploads/2015/04/greenhouse-whitefly-control.pdf",
+      "source": "scp",
+      "error": "Wayback failed: HTTP Error 404: Not Found"
+    },
+    {
+      "title": "SAS Survival Handbook",
+      "url": "http://www.landsurvival.com/downloads/SAS%20Survival%20Handbook.pdf",
+      "source": "scp",
+      "error": "Wayback failed: HTTP Error 404: Not Found"
+    },
+    {
+      "title": "The 1881 Household Cyclopedia",
+      "url": "https://graywolfsurvival.com/wp-content/uploads/1881_Household_Cyclopedia.pdf",
+      "source": "scp",
+      "error": "<urlopen error [Errno 11002] getaddrinfo failed>"
+    },
+    {
+      "title": "Canning and Preserving 1912",
+      "url": "https://graywolfsurvival.com/wp-content/uploads/Canning_and_preserving_1912.pdf",
+      "source": "scp",
+      "error": "<urlopen error [Errno 11002] getaddrinfo failed>"
+    },
+    {
+      "title": "How To Make Black Powder",
+      "url": "https://graywolfsurvival.com/wp-content/uploads/How-to-make-Black-Powder.pdf",
+      "source": "scp",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "title": "Physical Security FM 3-19.30",
+      "url": "https://graywolfsurvival.com/wp-content/uploads/Physical-Security-FM-3-19.30.pdf",
+      "source": "scp",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "title": "Preservation of Fish and Meat",
+      "url": "https://graywolfsurvival.com/wp-content/uploads/Preservation_of_Fish_and_Meat_2004.pdf",
+      "source": "scp",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "title": "Rural Tanning Techniques",
+      "url": "https://graywolfsurvival.com/wp-content/uploads/Rural_Tanning_Techniques_No-68_1974.pdf",
+      "source": "scp",
+      "error": "<urlopen error [Errno 11002] getaddrinfo failed>"
+    },
+    {
+      "title": "The Handbook For Practical Farmers 1920",
+      "url": "https://graywolfsurvival.com/wp-content/uploads/The_Handbook_For_Practical_Farmers_1920.pdf",
+      "source": "scp",
+      "error": "<urlopen error [Errno 11002] getaddrinfo failed>"
+    },
+    {
+      "title": "Tricks of Trapping",
+      "url": "https://graywolfsurvival.com/wp-content/uploads/Tricks-of-Trapping.pdf",
+      "source": "scp",
+      "error": "<urlopen error [Errno 11002] getaddrinfo failed>"
+    },
+    {
+      "title": "USMC Summer Survival Course Handbook 2005",
+      "url": "https://graywolfsurvival.com/wp-content/uploads/USMC-Summer-Survival-Course-Handbook-_6_february-2005.pdf",
+      "source": "scp",
+      "error": "<urlopen error [Errno 11002] getaddrinfo failed>"
+    },
+    {
+      "title": "Water Treatment",
+      "url": "https://graywolfsurvival.com/wp-content/uploads/Water_-_Water_Treatment.pdf",
+      "source": "scp",
+      "error": "<urlopen error [Errno 11002] getaddrinfo failed>"
+    },
+    {
+      "title": "Army STP 21-1 Soldiers Manual Warrior Skills Level 1",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMTZiOGFmOGYtMzdiNC00NTA1LTk2MzgtMjExNmMyYzQ4MDM2",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Army STP 21-24 Warrior Skills Level 2-3-4",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvNTMyOThmYTYtMTUxOC00Y2U1LTk3NGItZmY5NTE1MjU2MzJh",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Army FM 21-76 Survival Manual",
+      "url": "https://docs.google.com/file/d/0B6GE42-kvADvZTY4YjZhMmMtOWNjYy00MDI5LWFhMTItYTkwYjkzZDcwNjE5/edit?pli=1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Army FM 31-70 Basic Cold Weather Manual",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvNGU4ODU0ZGQtMzNjNi00Mjk3LTljNTMtOWFjYzA0OTkzNzgz",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Army FM 20-3 Camouflage Concealment and Decoys",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMGRhYjQ3MzEtZDBjYi00YWYxLWE1YWUtM2FkMTBjYjQ2YzRj",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Army FM 5-103 Survivability",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvYWMxYWI1ZjQtNDc3MS00OTA0LThiNzUtNmQxN2JjZmQxODAz",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Army FM 3-06 Urban Operations",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvN2UwOTQwYWQtNTYwZi00ZjVlLWE5MmMtODAyOTdhYTIyODRl",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Navy SEAL Physical Fitness Guide",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KMGI5YjAyM2UtNDhhOS00ODNhLWJjZWUtYTIxYjkxN2MyZTEz",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "US Marines Close Quarters Combat Manual",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KZDgzNjNmOWUtM2I2Zi00NWZmLWI3NmMtNzFkZDVmZjYwNWU2",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "US Marine Corps Hand to Hand Combat",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KZmE5MWI5ZjMtNmZmYy00ZmIxLWFlNjUtY2RlNmJhNjQ3ZTYz",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "US Army Combatives FM 3-25.150",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KYWE1Mzg0NDUtZmJiNS00NTEwLWJjZjAtMWRkODg1MjZhNDlh",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Pressure Points Military Hand to Hand Combat Guide",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KOWU0ZDA1YmEtMzYwYi00NzJhLThmNTUtNzM4ODJjYTdhZDIx",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Practical Unarmed Combat by Moshe Feldenkrais",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KMWY2ZDc4MmYtZDk5MC00YmM3LTgyODUtYTRmMWJjNWI1YjQ1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Krav Maga Pressure Points Guide",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KZmRiNGZlMjEtOTI3ZC00MTM1LWE5ZWItN2UzMDA3YTkzODA2",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Aikido Revised",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KMzUxYjhmNWUtOTAxOC00OWVlLWJmMjMtMzRjZWJjOGZiM2Rh",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Combat Conditioning Manual JiuJitsu",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KNGVjOTdjYTctNzNkYi00ZTdlLWE3OGUtZTVlMzNiNDllYWYy",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Marine Martial Arts Training",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KNzFmMjIzMDEtMDIyNi00NTBhLTk3NDMtOGYwODIxMDRlYmUy",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Combat Survival Evasion",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvOTk3OTlkNDgtODZkZi00NmQzLWFjMGItMGJmNTdjODYzOTdk",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "USMC Kill or Get Killed",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KM2Q2ZWQ3YmQtMzZhYS00ZWVhLTliYTItNDBiMGY2MzYxNzNm",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Surviving Terrorism",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvZDIzM2MxOWUtMDY5NS00OTE2LWFlNGYtOWJjMWQzMmEyMTlj",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Marines Individual Terrorism Survival",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMjZiZThiNWQtOTdjOC00ZmMwLTk4YzAtMjY2ODFkNWMwYWQz",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Army FM 5-428 Concrete and Masonry",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMDczYTY3YmUtNWY0ZC00ZTJiLTk2Y2QtMjBmNWZiZjU4OWI3",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Army FM 5-426 Carpentry",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMDM0ZDA4YzEtM2I0My00NjlhLWE1YTItMjdlYmNjN2YwZjc1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "How to Find Your Way - US Army",
+      "url": "https://docs.google.com/file/d/0B6GE42-kvADvZWE4M2NjN2EtYjJkMC00YTUyLWE0M2UtZTNiOGFlNzc1Njc1/edit?pli=1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Urban Preparation Kit Part I On-Body Kit",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvYzYyNTg4M2ItYzk4Zi00MzU2LWFlNjEtZmNiMjU4ZGE0MWVi",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Western Australia Police Aids To Survival",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvYTUzYjdkYzQtMGRlYS00YmEzLWFhYzYtNTJiOTdhN2EwY2Yw",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "USMC Winter Survival Course",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvOWM5OTBiMzgtNzE4Ny00ZTgzLTgzMmMtM2E5ZWY1YzVlZmQw",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "USMC Summer Survival Course",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMmIxZGVmMDMtYTRiZC00MjRiLTljNzgtYjA1YTNiMjk3Mzhh",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "How to Build a Debris Hut",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvOWE3NWI5MTMtNWViMi00M2UyLWIxY2EtZGE0OTY4MjdkNTYy",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Shelters Shacks Shanties - Daniel Carter Beard",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KZmI0YjA2YzUtZmViNS00YzVmLThkMzktNmJlMzk1YTFiZTc1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Edible Wild Plants",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMjJhNmM4ODEtNmU3Yy00OTJkLWFkMTAtZTU1NzQ2MmE4ZmI1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Common Edible Mushrooms",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMDZjZTA1NjAtZTQ2Ni00OWU2LTk2NDItODVlOGY5NzM5YTU2",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "WHO Monographs on Selected Medicinal Plants Vol 3",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvODhhMTdkNGMtNjEyNy00NDNlLTg2M2MtMzA2ODhhYzNjNGFm",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "WHO Monographs on Selected Medicinal Plants Vol 2",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvOTk4MzRkYWYtZTNhNi00OTg0LThlMGYtN2IxYWVmODE5MzY3",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "WHO Monographs on Selected Medicinal Plants Vol 1",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvY2RjMDk3ODMtZDFjYi00YmM3LWFkOGMtMTgyODExMmJmYjk1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Useful Wild Plants of the United States and Canada",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvZjY2NTcyNzktOTIyMy00Y2Y1LTg0MzYtNzUyZGZhMWQ4MTI4",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "How to Make Herbal Preparations",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvZDVkMjQ4MGMtZmJlZC00OGE1LWFlYzItMmYyNjY5NjEwZDA4",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Survival Edible Medicinal Plants",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMjkyY2MwMzQtMDk5ZC00ZjFjLTg1YzQtZjcyZjJmYzY0OTBm",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Medicinal Plants in Folk Tradition",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvNGNmZGNlZmItMjA1MS00MmU4LWE4YjUtMWZhNjY0M2E3NDNj",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Herbal PDR",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvZTRkZmE5NTctM2JiNC00NTExLTgxMWYtYWE0MDg0MzQyYTcz",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Healing Pets With Alternative Medicine",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvNDc2M2Y3ZGMtOGVhZS00OTEwLWJkZDYtY2NjM2I1YTU5MDY0",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Edible and Medicinal Plants",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvNmE4MDBmMzAtMDU3NC00NWZiLThhY2QtMmYwNWRmNjZkNWQ0",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Crow Indian Recipes and Herbal Medicines",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvNDIxNjM2OTgtYzBmYS00ZjI3LWE0MTItODExM2ZkNTk1NmQ2",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Anticancer Therapeutics",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvODU0MTMwNGMtN2NhOS00ZjUyLWFlNjEtMmMwMzNmNmQwZmVj",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "A Complete Handbook of Nature Cure",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvYjEyOTQxM2EtZjBkMi00Njg1LWFjYWEtMmU5ODg0MjRhYzEz",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "WHO Monographs on Selected Medicinal Plants Vol 4",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvYzI0YzgyNGMtNGIzNS00MjlkLTg5MDAtNWVmZDY4NmU3MzM4",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Traps and Snares",
+      "url": "https://docs.google.com/file/d/0B6GE42-kvADvMTY3NmZhNGUtN2RmOS00MzA4LThiNTctOGU1MTllODM0Zjlh/edit?pli=1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Camp Life in the Woods and Tricks of Trapping",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvNWRlMjMzODAtN2ZhZS00MGZlLWI1MTgtODY4MTBiZDg2ZDhi",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Alpine Living for SAR",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMjZlODlhMDAtYTM3MS00OWFhLTg3ZWMtZWQ1YWQzNTZmYjU1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Cold Weather Survival Rev 2",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvOWQyNjhhZTItMGMzYS00ZjgyLTliYzgtN2IxYjVlYWE3M2Vi",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Cold Weather Survival",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvODM5ZjE1YTAtODkwNC00NTcxLTliNDAtMWRlZmU1MWNjZGJl",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Survival In Cold Weather Areas",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvYjQ1MjJmODgtZjVmZS00YTQ4LTk4NGItM2JkZjAwMmYxZDVi",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Wilderness Survival Skills",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMjAwNmY0OTctNDA4ZS00ZjI2LWE0MjgtZjhiMTc5NzU1ODFi",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Survival Wilderness Survival",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMGUyOTg4YjctYjM0OC00N2NiLTg0NTAtYWU2OGIzNjI2ZmRl",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Adventurer Woodstravel Module",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvYjhjMDg5Y2YtMGQ0ZS00NjNjLWExYWItNTE4NmM1ZjNhNDZj",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Australian Bushcraft",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KN2Q5N2I0NTQtZjE1OS00ZTRiLWIxNDAtMzkxMzU0ODYwMmRk",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Flintknapping",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KNTc3MTcxMzQtZjQ0MS00ODc2LWEzNDUtMzlmMWI5ZDM1NDMy",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "The Book of Camplore and Woodcraft - Dan Beard",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KYTFlZjA5MjEtYTU1OS00ZTMwLWI2Y2UtOTNhM2EyMGY2Mjcz",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Bushcraft Scouting Woodlore Notes",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KMGMyNjFhMDgtMzlkNC00NDNlLWJiZmMtZGU2ODhkODY0MjZl",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Woodsmanship",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KOGI2MzA1NTAtMGViMC00ODA0LWFlNTgtOTNjODdmNTg4YTNk",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Vegetable Garden Encyclopedia",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KYjY5MzA0MzctM2UxOS00YmQwLTliNWMtNGFlYzIwYmZmNzQw",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Preserving Game Meats",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMWIyMjUwOTEtMjgyZS00NGZiLTkyMDctNjY1ZjIxNGM3NGM5",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Guide 5 Preparing and Canning Poultry Red Meats and Seafood",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KN2IzZjRmNjAtZmU5Mi00M2NiLWE3ZTktYTE3NzQyY2Y5NTQ1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "The Jerky Chef",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KOTJlNjM5ZDItY2ZlOS00ZmY0LTlkOTYtNDIxYTA0YzUzNjc0",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Solar Dehydrator",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KOThkZTU4NjctMTJhMi00NGE3LTlmN2QtYmZlYzQ4YTkwZTkw",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Small Scale Food Drying Technologies",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KYzRiYjRhYzUtMTcyMC00NTI5LWJlOWUtZTk5MDcwYmQwNzlm",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Preserving Food Drying Fruits And Vegetables",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KNzNkNzU0NzAtZWU3NC00NTVlLThhNTMtYTcxYjIzMDA2MTli",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Guide 6 Preparing and Canning Fermented Foods and Pickled Vegetables",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KODViZmYwZDEtOWE0OC00ZGJjLTgxZTItODMyMzllNGYwMzk4",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "1999 Dutch Oven Cookbook",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KYWRkNDgyNjYtZmU1NS00NGRhLTkyZjEtNmY0ODdkZDk4OWU4",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Boy Scout Cookbook",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KMjMwMmJhNTUtYTYzZC00MzA3LWE3MTYtMWNmZWQ0ZjZlNGU3",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "The Back Country Recipe Book",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KOTE3M2U0ZDYtZmQ3NC00NWI4LThiZWItMjZhMzU0MzRiZWY2",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Native Berry Recipes",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KMmM5OTk4NzQtYzY4OC00OTFlLWJhOGYtOThmMDEwMzk2M2Mz",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "The Baby Food",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KZDNhMmExZmUtNmI3YS00YjBiLWIyNTktOWRhMGExZmYzNTU0",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Bushcraft Leather Work",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KZjdmNDhkNDMtNTI4MC00ZWM3LWE1MTMtZGE3MzkyNmFmMjg2",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Foxfire One",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KODJlMTU3MTItY2MxNS00MTZiLWEyODEtMTU5YWQwZjZmZDFi",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Foxfire Two",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KOTU2MjI3NTAtYTNjYS00ZDZhLWI0ZDMtZDNjNjMwMzRiNDM1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Foxfire Three",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KNzJjOWYxMDUtNjg1ZC00YzRmLWE0NTItYmMzMThhMjlhZmM2",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "The Unofficial MacGyver How-To Handbook",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KMzZhYTE0OTMtNTdjNy00ZWNkLWI2MzQtNDIwMDJhZWZkYTMz",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "The Complete Guide to Home Carpentry",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KZmUzNzJmZWYtZTEyZC00YmNhLWI3YjEtZjEyN2VmMTMyMTIw",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Metal Forming",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KY2YzNDNhOTUtMDYzMC00OGUwLTlkNTEtNTdhZTliZWJhZWRm",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "HHS Pandemic Influenza Plan",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvZmVkYTM3MTQtOWVmMi00YWNjLWE2MjktYTQ0NDAxMzZlMWQ1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Personal Wilderness Medical Kit",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMGE0Nzk5ZjktOWU3MC00ZTkxLWIwZDgtNTk0Yzk0YzVmNzky",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Wound Closure Manual",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMmM2ZDA0Y2ItM2NiYS00YzVjLTgyYTAtYWExMmUzNjczZDc1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Full First Aid Manual FM 21-11",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvYjM2MTVhNjQtMjYwNS00YmU2LTk5MTQtYjRmNWI3NDA4YTRl",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Emergency War Surgery",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvNzk4M2ZmNWItMzM1Yi00NDNkLWI2MjItNDQxOGQyNTBlMTNm",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "USMC Wilderness Medicine Course",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvZDhmYjA5YzQtOGRhNi00MDkyLTkxZWMtYWYwYjM1YjA3NTc4",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Survival Medicine",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMThhN2YxMTctNDU4ZS00MGMzLTk2NzgtNmE5YzI5Yzk0ZTky",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Radio Monitoring How-to Guide",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KZDU5NWNiMGUtZTUxYy00OTI2LWEyMTAtOWFjYTk4OWQxM2Nm",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Practical Guide to Free Energy Devices",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KNzlmZmFhZGEtOWZkYy00NDJlLWI5ZDktM2JlYjhmOGQwMmE5",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Survival Water Purification",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvODk1YThhZDUtNzEyNC00MDA4LThiNTAtZGY1NDQyNGI2M2Q2",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Knots - Andrew Adamides",
+      "url": "https://docs.google.com/file/d/0B6GE42-kvADvNTk2MDU0MzgtODE0My00ODVjLWJhMTgtOGMyMzhiOWFmZjk1/edit?pli=1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Sea Scout Knots",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvNmE3ODUxNTQtOTAyYi00YjE5LThiYTUtNjkxZTY4Mjk1ZmIz",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Ropes Knots Ladders Lashings Anchorages",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvZjkyOTNlOTItNDUyMi00YjNhLWI3NjgtNzhmYzc0NjZlNzQy",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Knots Splices Attachments",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvZmUxMjUxZDUtODEyZC00OTk5LTlhYTktMDkwNmRiZmM1ZjY4",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Knots Splices and Rope Work",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvYjhiNzkxYjYtZDZlNy00NWIxLWIxMjMtMmJhNzM0ZDhkMTcx",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Knots for Mountaineering Camping Climbing Utility Rescue",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvNjJhMTA4ZGQtYjk3MC00YTUxLWEwOGItMDAxMjYzMTE4NDI5",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Knots by Andrew Adamides",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvNTk2MDU0MzgtODE0My00ODVjLWJhMTgtOGMyMzhiOWFmZjk1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Pioneering Knots and Lashings",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvOTBlNDExN2UtODM3Yy00YTg2LWI2NDEtYjFiNDViYjQ4OGQx",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "KNOTS",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvZGY3MDhkMzAtOGQxMC00M2I2LWE1NzItY2Y4NmFjZTFiMmIw",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Handbook of Knots and Splices",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvNjZmMDY0NGItZThhZS00OTcyLWJlYTktMjIxYjg2ZDc2NTQ4",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Fishing Knots Tying How To Tie A Knot",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMzIzNGQ1MGEtMWQxYi00MWE2LWJiNGEtNTMzOWIwN2I2NDNi",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Essential Fishing Knots",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMDMyMmNiMzctZGIyMC00Yjk5LThmMGUtOTRlOGRjNTBhODQ1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Encyclopedia of Knots",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMzJiZmI2NTktMzM5Ni00MzU4LTg5M2ItMDJiMGI1MmRlNDk4",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Basic Book of Knots and Lashings",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvZDMzZTlmNjAtMjVmMS00NGNkLWI5YTEtMWM1ZTgxYTY3NGZk",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "What Knot - Useful Knots for Scouting and Climbing",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMmI3MWM5MWQtNDI1Zi00YjJhLWEwODItZDRkNWNlZWQ0ZGY5",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Tying Farm Knots",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvYzNmOGM5OTEtMTRmNy00MTc2LThiNDAtZmExYmE1YWMzMjZj",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Steal This Book",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KMTcyMjQ0NzgtNWQ5YS00YzEzLThmZWUtZTQ0Mjk5YzRmZGIy",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Secret Hiding Places",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KOTMwN2EyNTQtNTAyZC00YTNiLWFkYzUtODg2ZWQyMjUwNThi",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    }
+  ]
+}

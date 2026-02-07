@@ -1,0 +1,1740 @@
+{
+  "download_date": "2026-02-07T08:43:36.979536",
+  "total_urls": 255,
+  "successful": 110,
+  "failed": 121,
+  "duplicates": 24,
+  "items": [
+    {
+      "filename": "FM-21-76-US-Army-Survival-Manual.pdf",
+      "title": "FM 21-76 US Army Survival Manual",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/2022/11/FM-21-76-US-Army-Survival-Manual.pdf",
+      "sha256": "c4967ef0e484223253cba69b36244373c168d14bbe55f41a619817d7ceee55d2",
+      "size_bytes": 13342283,
+      "is_gdocs": false
+    },
+    {
+      "filename": "FM-21-76-1-Survival-Evasion-and-Recovery.pdf",
+      "title": "FM 21-76-1 Survival Evasion and Recovery",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/2023/03/FM-21-76-1-Survival-Evasion-and-Recovery-Multiservice-Procedures.pdf",
+      "sha256": "d5819a141f45397c0e8f2ef873b37f1fc66fe956e5122d4a5664d6bfa505f06b",
+      "size_bytes": 1271059,
+      "is_gdocs": false
+    },
+    {
+      "filename": "FM-31-70-Basic-Cold-Weather-Manual.pdf",
+      "title": "FM 31-70 Basic Cold Weather Manual",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/2022/12/FM-31-70-Basic-Cold-Weather-Manual.pdf",
+      "sha256": "7065d09a6671adde7fd974ab0edc6c5596d9a3200bbd4c9a04eed1eb1cb48533",
+      "size_bytes": 2258642,
+      "is_gdocs": false
+    },
+    {
+      "filename": "USMC-Summer-Survival-Course-Handbook.pdf",
+      "title": "USMC Summer Survival Course Handbook",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/USMC-Summer-Survival-Course-Handbook.pdf",
+      "sha256": "e857d4f7f1bc8ec973d644d3dc8ed587c528c62867624fbfa7ce57bfb915d959",
+      "size_bytes": 3959305,
+      "is_gdocs": false
+    },
+    {
+      "filename": "USMC-Winter-Survival-Course-Handbook.pdf",
+      "title": "USMC Winter Survival Course Handbook",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/USMC-Winter-Survival-Course-Handbook.pdf",
+      "sha256": "8f9a8cda46a70a43808065ff047fda7e709053ca5d393a6b2e0c4de46321833c",
+      "size_bytes": 3948536,
+      "is_gdocs": false
+    },
+    {
+      "filename": "FM-3-06-Urban-Operations.pdf",
+      "title": "FM 3-06 Urban Operations",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/2022/12/FM-3-06-Urban-Operations-FM-90-10-US-Army.pdf",
+      "sha256": "51c3bab6a2a5832bb000231488e8436f0d0b06d8ec94005253f746437dcf78a0",
+      "size_bytes": 8785023,
+      "is_gdocs": false
+    },
+    {
+      "filename": "FM-3-3-1-Nuclear-Contamination-Avoidance.pdf",
+      "title": "FM 3-3-1 Nuclear Contamination Avoidance",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/FM-3-3-1-Nuclear-Contamination-Avoidance.pdf",
+      "sha256": "27b686b5b46e549f6789d5726011205d44bc0001276c30f7f656afe1cdec737b",
+      "size_bytes": 4296500,
+      "is_gdocs": false
+    },
+    {
+      "filename": "FM-3-4-NBC-Protection.pdf",
+      "title": "FM 3-4 NBC Protection",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/FM-3-4-NBC-Protection.pdf",
+      "sha256": "f912c514a227274c507205c7377448dcceee101356a9398dbeb84fc904b16f3a",
+      "size_bytes": 2885587,
+      "is_gdocs": false
+    },
+    {
+      "filename": "FM-3-5-NBC-Decontamination.pdf",
+      "title": "FM 3-5 NBC Decontamination",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/FM-3-5-NBC-Decontamination.pdf",
+      "sha256": "cc16295ae1e113f0e2e2e8571a955953e5ccb21b2c1edb2bb281c615120aeaed",
+      "size_bytes": 3439906,
+      "is_gdocs": false
+    },
+    {
+      "filename": "FM-3-25.26-Map-Reading-and-Land-Navigation.pdf",
+      "title": "FM 3-25.26 Map Reading and Land Navigation",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/FM-3-25-26-Map-Reading-and-Land-Navigation.pdf",
+      "sha256": "057cb5a2242ba911a862bf3a6c63ef3907f89d5cbab900d4e160216b2198ac89",
+      "size_bytes": 18598517,
+      "is_gdocs": false
+    },
+    {
+      "filename": "FM-3-25.150-Combatives.pdf",
+      "title": "FM 3-25.150 Combatives",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/FM-3-25-150-Combatives.pdf",
+      "sha256": "75899d58fc9a91f80bb0344993b1263f08f9ef74a78c2e6ce875cfb16f180815",
+      "size_bytes": 20323699,
+      "is_gdocs": false
+    },
+    {
+      "filename": "FM-4-25.11-First-Aid.pdf",
+      "title": "FM 4-25.11 First Aid",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/FM-4-25-11-First_Aid.pdf",
+      "sha256": "6aae20547f0862f42c680664c6335124ded4f89de01f15f5a52389fcd2c2e482",
+      "size_bytes": 1146028,
+      "is_gdocs": false
+    },
+    {
+      "filename": "FM-5-103-Survivability.pdf",
+      "title": "FM 5-103 Survivability",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/2022/12/FM-5-103-Survivability.pdf",
+      "sha256": "2fa1851cf4ee7e8d6d227888d12ca0fe5451bbcbd49439d413919e0c1299f997",
+      "size_bytes": 2327559,
+      "is_gdocs": false
+    },
+    {
+      "filename": "FM-20-3-Camouflage-Concealment-and-Decoys.pdf",
+      "title": "FM 20-3 Camouflage Concealment and Decoys",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/FM-20-3-Camouflage-Concealment-and-Decoys.pdf",
+      "sha256": "462863b91bb7a0440c3d21b415b16baee3930d9d6eece0983c03abc737ebfbce",
+      "size_bytes": 503849,
+      "is_gdocs": false
+    },
+    {
+      "filename": "FM-21-10-Field-Hygiene-and-Sanitation.pdf",
+      "title": "FM 21-10 Field Hygiene and Sanitation",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/FM-21-10-Field-Hygiene-and-Sanitation.pdf",
+      "sha256": "4ec74c43e7c13e41ae0695d4cacdacb572288bf1337115a64ba1f2d5eec5a8d7",
+      "size_bytes": 903867,
+      "is_gdocs": false
+    },
+    {
+      "filename": "FMFRP-12-80-USMC-Kill-or-Get-Killed.pdf",
+      "title": "FMFRP 12-80 USMC Kill or Get Killed",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/FMFRP-12-80-USMC-Kill-or-Get-Killed.pdf",
+      "sha256": "a24ae5efe716f91b4d97772373e346c14bd277529df811d3fda49217ff26fb72",
+      "size_bytes": 7561061,
+      "is_gdocs": false
+    },
+    {
+      "filename": "MA-1.02-USMC-Fundamentals-of-Martial-Arts.pdf",
+      "title": "MA 1.02 USMC Fundamentals of Martial Arts",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/MA-1.02-USMC-Fundamentals-of-Martial-Arts.pdf",
+      "sha256": "5c24a9e8b675edfcb45e20696db5a598cb32581816168ad61dba53d9715c1bc7",
+      "size_bytes": 2304077,
+      "is_gdocs": false
+    },
+    {
+      "filename": "NAVMED-P-5010-USN-Manual-of-Preventive-Medicine.pdf",
+      "title": "NAVMED P-5010 USN Manual of Preventive Medicine",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/NAVMED-P-5010-US-Navy-Manual-of-Preventive-Medicine.pdf",
+      "sha256": "0a9d85ab5bd5bbd3a0d00a6e344100392f4f763f039b13ceccbdd7a1409c7023",
+      "size_bytes": 605213,
+      "is_gdocs": false
+    },
+    {
+      "filename": "ST-31-91B-Special-Forces-Medical-Handbook.pdf",
+      "title": "ST 31-91B Special Forces Medical Handbook",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/2022/12/ST-31-91B-US-Army-Special-Forces-Medical-Handbook.pdf",
+      "sha256": "4ab9cbeeaecfee245324474812cf05b10fee38ab40565a23062d148f99f1fe65",
+      "size_bytes": 5292483,
+      "is_gdocs": false
+    },
+    {
+      "filename": "STP-21-1-Army-Warrior-Skills-Level-1.pdf",
+      "title": "STP 21-1 Army Warrior Skills Level 1",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/STP-21-1-Army-Warrior-Skills-Level-1-Soldiers-Manual-of-Common-Tasks.pdf",
+      "sha256": "fad362d617b56743a2310ad77b82448596895dee11749580a5cebf9115ad6b16",
+      "size_bytes": 20897060,
+      "is_gdocs": false
+    },
+    {
+      "filename": "STP-21-24-Army-Warrior-Leader-Skills-Level-2-3-4.pdf",
+      "title": "STP 21-24 Army Warrior Leader Skills Level 2-3-4",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/STP-21-24-Army-Warrior-Leader-Skills-Level-2-3-and-4.pdf",
+      "sha256": "ebb266c92e7c248fd8598358aacee8b67c25a85498207130dbac422e0f4b6a50",
+      "size_bytes": 11764020,
+      "is_gdocs": false
+    },
+    {
+      "filename": "TM-31-210-Improvised-Munitions-Handbook.pdf",
+      "title": "TM 31-210 Improvised Munitions Handbook",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/2022/11/TM-31-210-Improvised-Munitions-Handbook.pdf",
+      "sha256": "1af8475cbbdcae55a18be80074c19afa6fe6d7c6939c92c8f2eddee48521bf8e",
+      "size_bytes": 2112519,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Canadian-Military-Fieldcraft.pdf",
+      "title": "Canadian Military Fieldcraft",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/Canadian-Military-Fieldcraft.pdf",
+      "sha256": "668e511a5c8931a646da7ccbdcf5853c8172fd96bfcab8687a5f637a5e2f2429",
+      "size_bytes": 1183556,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Down-But-Not-Out-Canadian-Survival-Manual.pdf",
+      "title": "Down But Not Out - Canadian Survival Manual",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/2023/03/Down-But-Not-Out-Canadian-Survival-Manual.pdf",
+      "sha256": "6f8158c541f6077782d11446fd2f5dea08809a5f9efc639b0cc9adff8a7f9772",
+      "size_bytes": 3073400,
+      "is_gdocs": false
+    },
+    {
+      "filename": "CIA-Introduction-to-Survival.pdf",
+      "title": "CIA Introduction to Survival",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/CIA-RDP78-Introdution-to-Survival.pdf",
+      "sha256": "18815e66c4634726672524de82470db3a5cc275b8aa28efc25aff0b9070327a6",
+      "size_bytes": 5101260,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Boy-Scout-Handbook-1911.pdf",
+      "title": "Boy Scout Handbook 1911",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/Boy-Scout-Handbook-1911.pdf",
+      "sha256": "3f0fd258abc3245156d0dc300d13b9dfe8613a30b0df893ea8bca984e19d656f",
+      "size_bytes": 7718822,
+      "is_gdocs": false
+    },
+    {
+      "filename": "US-Antarctic-Continental-Field-Manual.pdf",
+      "title": "US Antarctic Continental Field Manual",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/US-Antarctic-Continental-Field-Manual.pdf",
+      "sha256": "0eb328a00912cbeb77bf76e4fa30183f8330a0a44aaabaf2d066e8e0914cc6e9",
+      "size_bytes": 261553,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Canadian-Military-Basic-Cold-Weather-Training.pdf",
+      "title": "Canadian Military Basic Cold Weather Training",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/Canadian-Military-Basic-Cold-Weather-Training.pdf",
+      "sha256": "155f545aa4b37d99d632bf1c90453660fa0ca847b8e29f2a61071283e7133755",
+      "size_bytes": 2273914,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Deadfalls-and-Snares.pdf",
+      "title": "Deadfalls and Snares",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/2022/12/Deadfalls-and-Snares.pdf",
+      "sha256": "fd72c1d2f353e965d13af996e057ac6174ee5db7f81d5f5705963a95f699a169",
+      "size_bytes": 6370700,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Paleo-Pocalypse.pdf",
+      "title": "Paleo-Pocalypse",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/2022/12/Paleo-Pocalypse.pdf",
+      "sha256": "6cb73e330465253533e4ac98d637b2e325fe734570b642a6c0b6011a5469b77d",
+      "size_bytes": 3087883,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Shelters-Shacks-and-Shanties.pdf",
+      "title": "Shelters Shacks and Shanties",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/2022/12/Shelters-Shacks-and-Shanties.pdf",
+      "sha256": "8cf6f9113eb1b625d577fe9d1d0ad9feb2a17f73def937d8341c07e7224db142",
+      "size_bytes": 3045242,
+      "is_gdocs": false
+    },
+    {
+      "filename": "FEMA-Citizen-Preparedness-Guide.pdf",
+      "title": "FEMA Citizen Preparedness Guide",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/FEMA-Citizen-Preparedness-Guide.pdf",
+      "sha256": "34576d9845b1afffbb6d1d27ac33c034e03c811d2ccc2fb5a52ccb30e22ec879",
+      "size_bytes": 3808124,
+      "is_gdocs": false
+    },
+    {
+      "filename": "LDS-Preparedness-Manual.pdf",
+      "title": "LDS Preparedness Manual",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/2022/12/LDS-Preparedness-Manual.pdf",
+      "sha256": "9097cae4362dd4c78bff64a3295ad1681c752c4f09d9ea0c82b3308cd855e782",
+      "size_bytes": 1295510,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Estonia-Be-Prepared-Crisis-Guide.pdf",
+      "title": "Estonia Be Prepared Crisis Guide",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/Be-Prepared-Estonia-Crisis-Guide-Paasteamet-ERB.pdf",
+      "sha256": "c582301ce854516b12140b7de2dab577aaea6802f81803b84fb20cf8369d3d45",
+      "size_bytes": 1157666,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Norway-One-Week-Preparedness-Guide.pdf",
+      "title": "Norway One Week Preparedness Guide",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/Norway-One-Week-Preparedness-Guide.pdf",
+      "sha256": "749352103be72c0c114f3abc006da787a29c45068286ae46c1549938583bd907",
+      "size_bytes": 1073810,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Sweden-In-Case-of-Crisis-or-War.pdf",
+      "title": "Sweden In Case of Crisis or War",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/Sweden-In-Case-of-Crisis-or-War.pdf",
+      "sha256": "367970c57ede1a3effb83faab68ace43581b6075367521b9d11f1d983a5b689b",
+      "size_bytes": 978502,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Where-There-is-No-Doctor.pdf",
+      "title": "Where There is No Doctor",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/2022/11/Where-There-is-no-Doctor-a-Village-Health-Care-Handbook.pdf",
+      "sha256": "f6892e5dd245b07fc343453b5b0a3df882e0dc0db2468a8c6f154a221c1550df",
+      "size_bytes": 4977007,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Where-There-is-No-Dentist.pdf",
+      "title": "Where There is No Dentist",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/2022/12/Where-There-is-No-Dentist.pdf",
+      "sha256": "428ce656e9ed9d027832a9e159d9834120d1b816e3f82d4a26a57b3d076b477d",
+      "size_bytes": 3835282,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Collateral-Damage-to-Satellites-from-an-EMP-Attack.pdf",
+      "title": "Collateral Damage to Satellites from an EMP Attack",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/DTRA-Collateral-Damage-to-Satellites-from-an-EMP-Attack.pdf",
+      "sha256": "825030ae176985216e85f6a8ecc936d05cc6bb7a6adf6e2211e8fd743dd32c99",
+      "size_bytes": 26645960,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Nuclear-Winter-The-Anthropology-of-Human-Survival.pdf",
+      "title": "Nuclear Winter - The Anthropology of Human Survival",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/2022/11/Nuclear-Winter-The-Anthropology-of-Human-Survival.pdf",
+      "sha256": "f875d1666f26cfd0b47d1237f61eb0a8ec54854e6d0a4a0bfc61e5c7bcdece70",
+      "size_bytes": 14362486,
+      "is_gdocs": false
+    },
+    {
+      "filename": "FEMA-Planning-Guide-for-Response-to-Nuclear-Detonation.pdf",
+      "title": "FEMA Planning Guide for Response to Nuclear Detonation",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/2022/09/Planning-Guidance-for-Response-to-Nuclear-Detonation-May-2022-FEMA.pdf",
+      "sha256": "2636cc99a5fa066d61667c9326534794d3b355f19eaf1e2ed96af01982b10174",
+      "size_bytes": 13197822,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Nuclear-War-Survival-Skills-by-Cresson-Kearny.pdf",
+      "title": "Nuclear War Survival Skills by Cresson Kearny",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/2022/09/Nuclear-War-Survival-Skills-Cresson-Kearny.pdf",
+      "sha256": "7af59ed47e0aa70bf8efb710b91ac629e9a24d6015a5458466f53bf8c2d13509",
+      "size_bytes": 19834771,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Family-Shelter-Designs-DOD-Civil-Defense.pdf",
+      "title": "Family Shelter Designs - DOD Civil Defense",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/2023/04/Family-Shelter-Designs-DOD-Civil-Defense.pdf",
+      "sha256": "7ac9ed3c566bcaadf1f8b244758e766ec1f4ef1273f786dcc58b2457d05fe615",
+      "size_bytes": 1170888,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Build-a-Protective-Fallout-Shelter.pdf",
+      "title": "Build a Protective Fallout Shelter",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/2022/11/Build-a-Protective-Fallout-Shelter.pdf",
+      "sha256": "ec86922aca677aa2694d0a20ba542693072f3cef169e8f7cbddbc23b3bd92803",
+      "size_bytes": 12511429,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Basic-Emergency-Plan.pdf",
+      "title": "Basic Emergency Plan",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/Basic-Emergency-Plan.pdf",
+      "sha256": "778a39081b8e7379d569c8ee2e246d9f3699a236cf20d070617b0ebcc458793b",
+      "size_bytes": 75901,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Home-Survival-Kit-Checklist.pdf",
+      "title": "Home Survival Kit Checklist",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/Home-Survival-Kit-Checklist-v2-2-Page-1.pdf",
+      "sha256": "8981198778c0fd64eb0d6fa83b4c7d9fb1dce337792909d3b448459b6c6bf9f4",
+      "size_bytes": 102283,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Survival-Food-Checklist.pdf",
+      "title": "Survival Food Checklist",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/Survival-Food-Checklist-v2.pdf",
+      "sha256": "b6efaccbe123288cdd0bfcf776ef94e63676bd717b1b001762890b8704a480a1",
+      "size_bytes": 78531,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Everyday-Carry-Checklist.pdf",
+      "title": "Everyday Carry Checklist",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/Everyday-Carry-Checklist-v3-2-Page.pdf",
+      "sha256": "029ce9dad9a33ae144e1d4bdeccf610a1679178df8958848e948f7738258997e",
+      "size_bytes": 132193,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Bug-Out-Bag-Checklist.pdf",
+      "title": "Bug Out Bag Checklist",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/Bug-Out-Bag-Checklist-v3-2-Page.pdf",
+      "sha256": "e413a2ea90f2c8767645ad4b44609f90f1b565841614e492973e36c2b5074130",
+      "size_bytes": 134641,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Get-Home-Bag-Checklist.pdf",
+      "title": "Get Home Bag Checklist",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/Get-Home-Bag-Checklist-v3-2-Page.pdf",
+      "sha256": "ca870da4bb5ee5494fe7a895c4aecb59b6d2ec8135d4064e1b3f26de04b52628",
+      "size_bytes": 125587,
+      "is_gdocs": false
+    },
+    {
+      "filename": "INCH-Bag-Checklist.pdf",
+      "title": "INCH Bag Checklist",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/INCH-Bag-Checklist-v2-2-Page-1.pdf",
+      "sha256": "7bcea8bec4c8250354573d9fcb81a79ddcbfc9e204982ff921289fbbb2e22ae1",
+      "size_bytes": 515148,
+      "is_gdocs": false
+    },
+    {
+      "filename": "WUSH-Bag-Checklist.pdf",
+      "title": "WUSH Bag Checklist",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/WUSH-Bag-Checklist-v3.pdf",
+      "sha256": "a196c3dadca129438a0e98e96f9427500e32f041a90d57a90d7879ea081916e6",
+      "size_bytes": 85933,
+      "is_gdocs": false
+    },
+    {
+      "filename": "SCARE-Kit-Checklist.pdf",
+      "title": "SCARE Kit Checklist",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/SCARE-Bag-Checklist-v2.pdf",
+      "sha256": "3a0bfe838f941c6694b252699c42ca66e3f0a37b241a7433cef61d7fc87768dd",
+      "size_bytes": 119703,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Nuclear-Survival-Kit-Checklist.pdf",
+      "title": "Nuclear Survival Kit Checklist",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/Nuclear-Survival-Kit-Checklist-v3.pdf",
+      "sha256": "5de81243b987aa656b16d81f137150139f3e0019e50ab8c40cfdaa7a012e3fda",
+      "size_bytes": 79624,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Flood-Survival-Kit-Checklist.pdf",
+      "title": "Flood Survival Kit Checklist",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/Flood-Survival-Kit-Checklist-v3.pdf",
+      "sha256": "868721b2b8f97a39aaaf8852050db4be548d5327ad52a8db19a3b0009e040448",
+      "size_bytes": 95455,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Hurricane-Survival-Kit-Checklist.pdf",
+      "title": "Hurricane Survival Kit Checklist",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/Hurricane-Survival-Kit-Checklist.pdf",
+      "sha256": "dc29aae2a4831b357a0aab994bdb44ffe8fa272402983959e0f67720873107c4",
+      "size_bytes": 106927,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Kids-Bug-Out-Bag-Checklist.pdf",
+      "title": "Kids Bug Out Bag Checklist",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/Kids-Bug-Out-Bag-Checklist-v3.pdf",
+      "sha256": "c6f017f71c6cb90dbba472858f9cec3a3e7450540ea85b7266e8fd3e71ca7a11",
+      "size_bytes": 94624,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Dog-Bug-Out-Bag-Checklist.pdf",
+      "title": "Dog Bug Out Bag Checklist",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/Dog-Bug-Out-Bag-Checklist-v3.pdf",
+      "sha256": "c9efb782112d219730a86cfa0404e230b8c157a5a79f618e1af7e80388d5e81d",
+      "size_bytes": 90805,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Car-Emergency-Kit-Checklist.pdf",
+      "title": "Car Emergency Kit Checklist",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/Car-Emergency-Kit-Checklist-v3.pdf",
+      "sha256": "54c0799f6814283c357db0a6f2eede788092cd35321cbe154bcb14c770ff10b2",
+      "size_bytes": 103032,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Bug-Out-Vehicle-Checklist.pdf",
+      "title": "Bug Out Vehicle Checklist",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/Bug-Out-Vehicle-Checklist-v3.pdf",
+      "sha256": "aca82650764d391cbb0b37e64579bae32c0869f95496673384ac0d1956b3c734",
+      "size_bytes": 118617,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Survival-First-Aid-Kit-Checklist.pdf",
+      "title": "Survival First Aid Kit Checklist",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/Survival-First-Aid-Kit-Checklist-v3.pdf",
+      "sha256": "1a86d37d540ae49debac0a8fec621ca51e3dfe68cc7d30888616bbf73f275fbe",
+      "size_bytes": 70333,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Military-Phonetic-Alphabet.pdf",
+      "title": "Military Phonetic Alphabet",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/2023/01/Printable-PDF-of-the-Military-Phonetic-Alphabet.pdf",
+      "sha256": "f7f357f0aec4d2067f6c7f2a16d45ebededce06a1a1037571dc28db95f34e0cd",
+      "size_bytes": 289430,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Universal-Edibility-Test.pdf",
+      "title": "Universal Edibility Test",
+      "source": "trueprepper",
+      "original_url": "https://trueprepper.com/wp-content/uploads/2023/01/Printable-PDF-of-the-Universal-Edibility-Test-for-Survival.pdf",
+      "sha256": "522db0c850aa08ebc4c7bb6ae4280122e8e194f4817a51f84189e4b24a080521",
+      "size_bytes": 653614,
+      "is_gdocs": false
+    },
+    {
+      "filename": "11-Steps-to-Survival-Canada-Emergency-Measures.pdf",
+      "title": "11 Steps to Survival - Canada Emergency Measures",
+      "source": "scp",
+      "original_url": "http://ready4itall.org/wp-content/uploads/2013/05/11-Steps-to-Survival-Canada-Emergency-Measurses-Organization.pdf",
+      "sha256": "4236a047946cb67d6a7e839ec4fee7092e36705e2ebb69f80a5614aa3adf8eee",
+      "size_bytes": 195,
+      "is_gdocs": false
+    },
+    {
+      "filename": "The-Ten-Bushcraft-Books.pdf",
+      "title": "The Ten Bushcraft Books",
+      "source": "scp",
+      "original_url": "http://www.survivorlibrary.com/library/the-ten-bushcraft-books.pdf",
+      "sha256": "e38c908f04ca21aa33336eb476698a617591ae34bedbcd1704502e4056e0963f",
+      "size_bytes": 3368547,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Deadfalls-and-Snares-AR-Harding.pdf",
+      "title": "Deadfalls and Snares - AR Harding",
+      "source": "scp",
+      "original_url": "https://ia801406.us.archive.org/13/items/deadfallssnaresb00harduoft/deadfallssnaresb00harduoft.pdf",
+      "sha256": "f0c9ddafae343f1899ff89c84cc055c30abc74d93eaa7b382ca9a194b21dfef2",
+      "size_bytes": 9024520,
+      "is_gdocs": false
+    },
+    {
+      "filename": "US-Army-Special-Forces-Medical-Handbook-ST-31-91B.pdf",
+      "title": "US Army Special Forces Medical Handbook ST 31-91B",
+      "source": "scp",
+      "original_url": "https://seasonedcitizenprepper.com//wp-content/uploads/2012/05/sfhandbook.pdf",
+      "sha256": "a6ad0d138b6614f48badb8fcd68cbea939868dc6c94723cabf5eedb164f72c48",
+      "size_bytes": 16647821,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Ranger-Handbook-2006.pdf",
+      "title": "Ranger Handbook 2006",
+      "source": "scp",
+      "original_url": "https://seasonedcitizenprepper.com//wp-content/uploads/2012/06/ranger.pdf",
+      "sha256": "96534529a335f24053e8592b9b02b4430fdd5d2ee1721028b72d8f2dfdba3281",
+      "size_bytes": 7708225,
+      "is_gdocs": false
+    },
+    {
+      "filename": "LDS-Preparedness-Manual-2012.pdf",
+      "title": "LDS Preparedness Manual 2012",
+      "source": "scp",
+      "original_url": "https://seasonedcitizenprepper.com//wp-content/uploads/2012/10/LDSPrep-V8.pdf",
+      "sha256": "968f4848265d047f299ceace26140eb570d244edc9e130689f91a88219a771d4",
+      "size_bytes": 9792540,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Army-FM-3-97-Military-Mountaineering.pdf",
+      "title": "Army FM 3-97 Military Mountaineering",
+      "source": "scp",
+      "original_url": "https://seasonedcitizenprepper.com//wp-content/uploads/2012/12/ARMY-Military-Mountaineering.pdf",
+      "sha256": "d768c8b6b1538045d22d382a49375b52994a14610278458b7e8619bdb07bf8d4",
+      "size_bytes": 17147300,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Canning-Guide.pdf",
+      "title": "Canning Guide",
+      "source": "scp",
+      "original_url": "https://seasonedcitizenprepper.com//wp-content/uploads/2012/12/canning.pdf",
+      "sha256": "fc283a793c1eb21ef2eae720076959ef81599cb5b74fdb01bb6cb3720dcd7fc1",
+      "size_bytes": 2205682,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Montana-Winter-Survival-Manual.pdf",
+      "title": "Montana Winter Survival Manual",
+      "source": "scp",
+      "original_url": "https://seasonedcitizenprepper.com//wp-content/uploads/2012/12/wintersurvival.pdf",
+      "sha256": "eba73585152c703ef1d9121c68fd3b848115449a6c11c556fe777168b1148164",
+      "size_bytes": 421456,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Survival-and-Austere-Medicine.pdf",
+      "title": "Survival and Austere Medicine",
+      "source": "scp",
+      "original_url": "https://seasonedcitizenprepper.com//wp-content/uploads/2013/01/Survival-and-Austere-Medicine.pdf",
+      "sha256": "5a915400e883e4fe8039fe30bb6364e2f585378c591763978f5c2de3cce01abb",
+      "size_bytes": 4094295,
+      "is_gdocs": false
+    },
+    {
+      "filename": "The-Guerrilla-and-How-to-Fight-Him.pdf",
+      "title": "The Guerrilla and How to Fight Him",
+      "source": "scp",
+      "original_url": "https://seasonedcitizenprepper.com//wp-content/uploads/2013/01/The-Guerrilla-and-How-to-Fight-Him.pdf",
+      "sha256": "4da21b9c1347d1eccd0fbca381af0f23b79579bc7044f2ae3a8b5c11a06ee8bd",
+      "size_bytes": 12652776,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Wood-Burning.pdf",
+      "title": "Wood Burning",
+      "source": "scp",
+      "original_url": "https://seasonedcitizenprepper.com//wp-content/uploads/2013/01/WoodBurning.pdf",
+      "sha256": "bf360c3d561e29dde7a77dbdcf5e4f8932f413004b56dded573524694705ffb0",
+      "size_bytes": 7058480,
+      "is_gdocs": false
+    },
+    {
+      "filename": "1881-Household-Cyclopedia.pdf",
+      "title": "1881 Household Cyclopedia",
+      "source": "scp",
+      "original_url": "https://seasonedcitizenprepper.com//wp-content/uploads/2013/02/1881_Household_Cyclopedia.pdf",
+      "sha256": "da36982b56e4eb0f61cf6ca2bd7385f8b795cad5e32151ad1aafd43ca1ac1812",
+      "size_bytes": 14859326,
+      "is_gdocs": false
+    },
+    {
+      "filename": "How-to-Handle-a-Crisis.pdf",
+      "title": "How to Handle a Crisis",
+      "source": "scp",
+      "original_url": "https://seasonedcitizenprepper.com//wp-content/uploads/2013/02/Evers_SafetyBook_V3.pdf",
+      "sha256": "37674ac04f311ca08729b058bab69c2d59aaa002b2d06d97021ab12240b799a6",
+      "size_bytes": 1350306,
+      "is_gdocs": false
+    },
+    {
+      "filename": "FM-21-76-1-Survival-Evasion-Recovery.pdf",
+      "title": "FM 21-76-1 Survival Evasion Recovery",
+      "source": "scp",
+      "original_url": "https://seasonedcitizenprepper.com//wp-content/uploads/2013/02/FM-21-76-1-Survival-Evasion-Recovery.pdf",
+      "sha256": "f4bf6508978e695a16815ca19c52e2b9d5ba5634f5d76fdcc666adbd203cd05c",
+      "size_bytes": 3136930,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Complete-Guide-to-Home-Canning.pdf",
+      "title": "Complete Guide to Home Canning",
+      "source": "scp",
+      "original_url": "https://seasonedcitizenprepper.com//wp-content/uploads/2013/02/GUIDE-1-Home-Can.pdf",
+      "sha256": "3ddfa8d8f84efba5dd501140c02797a9313877bd4b2bd9aa70cc9a01f651a9cd",
+      "size_bytes": 3227191,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Art-of-War.pdf",
+      "title": "Art of War",
+      "source": "scp",
+      "original_url": "https://seasonedcitizenprepper.com//wp-content/uploads/2013/03/Art-of-War-PDF-1.pdf",
+      "sha256": "17581ff6d31bfdf68cb81b9b14b489dbf5911752f3221cd0f6d3a7bb8ace2e46",
+      "size_bytes": 96831,
+      "is_gdocs": false
+    },
+    {
+      "filename": "FEMA-Emergency-Supplies-Checklist.pdf",
+      "title": "FEMA Emergency Supplies Checklist",
+      "source": "scp",
+      "original_url": "https://seasonedcitizenprepper.com//wp-content/uploads/2013/03/checklist_1_72_hr._kit.pdf",
+      "sha256": "110183b941406bfe53a304e238fc29d89b516b11bda9691a2e69b4ae951273c8",
+      "size_bytes": 166227,
+      "is_gdocs": false
+    },
+    {
+      "filename": "FEMA-Family-Supply-List.pdf",
+      "title": "FEMA Family Supply List",
+      "source": "scp",
+      "original_url": "https://seasonedcitizenprepper.com//wp-content/uploads/2013/03/familylist1.pdf",
+      "sha256": "9cbe756b665843f33c9f3e60558060f22ec14b026f5916509f53cd00eaf616a7",
+      "size_bytes": 149569,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Generator-Load-Chart.pdf",
+      "title": "Generator Load Chart",
+      "source": "scp",
+      "original_url": "https://seasonedcitizenprepper.com//wp-content/uploads/2013/03/GeneratorLoadChart.pdf",
+      "sha256": "0055520b805030e8171e337b266d8cc6d7dde48ace7dbff464de8e4781c9e0f3",
+      "size_bytes": 70246,
+      "is_gdocs": false
+    },
+    {
+      "filename": "3-Day-Emergency-Prep.pdf",
+      "title": "3 Day Emergency Prep",
+      "source": "scp",
+      "original_url": "https://seasonedcitizenprepper.com//wp-content/uploads/2013/04/3_Day_Emergency_Prep_-_BOB_6.09_.pdf",
+      "sha256": "ced7384a0a894e5b7a514c2c8c0d2338651b98d07daa8f66524b5f4f2ee21950",
+      "size_bytes": 1313780,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Morel-Mushroom-Hunting-Tips.pdf",
+      "title": "Morel Mushroom Hunting Tips",
+      "source": "scp",
+      "original_url": "https://seasonedcitizenprepper.com//wp-content/uploads/2013/04/Morel_Mushroom_Hunting_Tips-1.pdf",
+      "sha256": "0dee98d437f3f8ed2b43cc0cc939d545330c4fc0c379b2cf79ea8c5b4dc156da",
+      "size_bytes": 123021,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Nuclear-War-Survival-Skills.pdf",
+      "title": "Nuclear War Survival Skills",
+      "source": "scp",
+      "original_url": "https://seasonedcitizenprepper.com//wp-content/uploads/2013/06/nuclearsurvivalskills.pdf",
+      "sha256": "7376ac1ea5c61074e72ea371ef3042c82b78ca2c47bb88c4a9d3c05e6d73928e",
+      "size_bytes": 6593780,
+      "is_gdocs": false
+    },
+    {
+      "filename": "The-Family-Fallout-Shelter-MP-15.pdf",
+      "title": "The Family Fallout Shelter MP-15",
+      "source": "scp",
+      "original_url": "https://seasonedcitizenprepper.com//wp-content/uploads/2013/08/MP-15.fam_.1959.pdf",
+      "sha256": "ff53a4624695c513099d41cf03e50395d30eab47700661b3ea8212d42d08cff7",
+      "size_bytes": 1726194,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Camping-Recipes.pdf",
+      "title": "Camping Recipes",
+      "source": "scp",
+      "original_url": "https://seasonedcitizenprepper.com//wp-content/uploads/2013/09/Camping-Recipes.pdf",
+      "sha256": "fd1993e2508101c34b76e58a6a3aa1eebef8445f55abb8bf2fe618633c202740",
+      "size_bytes": 1483862,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Dutch-Oven-and-Grill-Recipes.pdf",
+      "title": "Dutch Oven and Grill Recipes",
+      "source": "scp",
+      "original_url": "https://seasonedcitizenprepper.com//wp-content/uploads/2013/10/DutchOvenGrillBarBQrecipes.pdf",
+      "sha256": "9d96c96c720c43ac90ac0122117dc9beb554a2a30597d042c31e01a772d6da36",
+      "size_bytes": 593947,
+      "is_gdocs": false
+    },
+    {
+      "filename": "FEMA-Protection-In-The-Nuclear-Age.pdf",
+      "title": "FEMA Protection In The Nuclear Age",
+      "source": "scp",
+      "original_url": "https://seasonedcitizenprepper.com//wp-content/uploads/2013/10/FEMA-nuclear-survival.pdf",
+      "sha256": "1fd0e9462e12c66d44e5f0ebe8a09da775e6f90a404d5a780e30c8bc962e1955",
+      "size_bytes": 889834,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Jerky-Recipes.pdf",
+      "title": "Jerky Recipes",
+      "source": "scp",
+      "original_url": "https://seasonedcitizenprepper.com//wp-content/uploads/2013/10/MoreJerky.pdf",
+      "sha256": "fdedcb7ca14b0126e7af6186bbb35c204b8117afe55d8400c0843e05b2eeaed1",
+      "size_bytes": 124396,
+      "is_gdocs": false
+    },
+    {
+      "filename": "3-Month-Food-Supply-Schedule.pdf",
+      "title": "3 Month Food Supply Schedule",
+      "source": "scp",
+      "original_url": "https://seasonedcitizenprepper.com//wp-content/uploads/2013/12/3monthsupplyoffoodschedule2.pdf",
+      "sha256": "19955657dc02ab70d9fe66d3ef8484cc01d12ccea7aa9618411fd76711ed616c",
+      "size_bytes": 123196,
+      "is_gdocs": false
+    },
+    {
+      "filename": "SODIS-Safe-Water-School-Training-Manual.pdf",
+      "title": "SODIS Safe Water School Training Manual",
+      "source": "scp",
+      "original_url": "https://seasonedcitizenprepper.com//wp-content/uploads/2014/02/SODIS-manual.pdf",
+      "sha256": "95d77dcc667432fd92447777f16bf40acda606d297f0baffa536a4624fddb4f9",
+      "size_bytes": 8150930,
+      "is_gdocs": false
+    },
+    {
+      "filename": "60-Gift-Mixes-In-A-Jar-Recipes.pdf",
+      "title": "60 Gift Mixes In-A-Jar Recipes",
+      "source": "scp",
+      "original_url": "https://seasonedcitizenprepper.com//wp-content/uploads/2014/09/60giftmixesjarrecipes.pdf",
+      "sha256": "02bd21c02843a4d2490aaf396df3cf84cb8674b28fada60730d4806109a68ea1",
+      "size_bytes": 189672,
+      "is_gdocs": false
+    },
+    {
+      "filename": "You-Alone-in-the-Maine-Woods.pdf",
+      "title": "You Alone in the Maine Woods",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/1.-You-Alone-in-the-Maine-Woods-Author-Michael-F-Richard-Brad-Rounds-Bryan-Courtois.pdf",
+      "sha256": "c6fa32ef6e45dafe9d82fdd256be1959898518ff6160d3f24fc6117bd7a6c68f",
+      "size_bytes": 4517827
+    },
+    {
+      "filename": "Survival-Calvin-Crest.pdf",
+      "title": "Survival - Calvin Crest",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/3.-Survival-Author-Calvin-Crest.pdf",
+      "sha256": "ecde1d693345462a2af330089128e0286efb0b3a687684bd0963c46167656c4f",
+      "size_bytes": 465322
+    },
+    {
+      "filename": "Ultimate-Survival-Skills-Guide.pdf",
+      "title": "Ultimate Survival Skills Guide",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/5.-Ultimate-Survival-Skills-Guide-Author-Joe-Marshall.pdf",
+      "sha256": "d404f2a6a4adaa4667eb85343d5effc4b2fb61f84421a16509e7d77917a150c9",
+      "size_bytes": 323817
+    },
+    {
+      "filename": "Wilderness-Survival.pdf",
+      "title": "Wilderness Survival",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/2.-Wilderness-Survival-Author-Survivor-Library.pdf",
+      "sha256": "14c140f3b1c0f906c223a11e0183a02c7b37e16006c43298fb0b91508c82a6d3",
+      "size_bytes": 280025
+    },
+    {
+      "filename": "The-Elements-of-Surviving.pdf",
+      "title": "The Elements of Surviving",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/4.-The-Elements-of-Surviving-Author-Saint-Paul-Public-Schools.pdf",
+      "sha256": "c537e73be27825e15b05d0ba4c5c398e6147ac760c3cba6f3cf0fb8dd688d527",
+      "size_bytes": 228685
+    },
+    {
+      "filename": "Survival-Civil-Aviation-Authority-NZ.pdf",
+      "title": "Survival - Civil Aviation Authority NZ",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/6.-Survival-Author-Civil-Aviation-Authority-of-New-Zealand.pdf",
+      "sha256": "58c75a58c1c93e5cddf3c3dc8e8389b1cdfbfacea14548fda399cea4620c2c79",
+      "size_bytes": 1067030
+    },
+    {
+      "filename": "101-Ways-To-Start-A-Fire.pdf",
+      "title": "101 Ways To Start A Fire",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/8.-A-Long-Term-Survival-Guide-101-Ways-To-Start-A-Fire-Author-Survival-Ready-Blog.pdf",
+      "sha256": "d43053bee9a92a5ea55522e960dbf372b0ad98af6eac074450d7cbdc2c7d7585",
+      "size_bytes": 2498359
+    },
+    {
+      "filename": "Survival-Skills-101.pdf",
+      "title": "Survival Skills 101",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/9.-Survival-Skills-101-Author-Jason-Stevenson-Alison-Fromme.pdf",
+      "sha256": "d232e69d67b989c1e8750cabad690a6eabd31f4d13f70b4b9efe4c89aafaf51f",
+      "size_bytes": 1167506
+    },
+    {
+      "filename": "Winter-Survival-in-the-Backcountry.pdf",
+      "title": "Winter Survival in the Backcountry",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/10.-Winter-survival-in-the-backcountry-inter-survival-in-the-backcountry-Author-Albertas-Parks.pdf",
+      "sha256": "a943290cb751569238715e07b1ab6b96cf868781cde344fade9ebbf85438acb4",
+      "size_bytes": 233011
+    },
+    {
+      "filename": "Burning-Man-Family-Survival-Guide.pdf",
+      "title": "Burning Man Family Survival Guide",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/12.-Burning-Man-Family-Survival-Guide-Author-Burning-Man.pdf",
+      "sha256": "d28f1d82f41822beff1151347c73c7ed52817e13ddbdd3fd4608a83ad380ce67",
+      "size_bytes": 513348
+    },
+    {
+      "filename": "How-to-Use-a-Compass.pdf",
+      "title": "How to Use a Compass",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/11.-How-to-use-a-compass-Author-Camp-Allatoona-Aquatics-Base.pdf",
+      "sha256": "a928b9f3e6bdb92dff88d9845269e41634a3882890f2863958f1d1936c1d0019",
+      "size_bytes": 665052
+    },
+    {
+      "filename": "How-to-Go-Winter-Camping-and-Backpacking.pdf",
+      "title": "How to Go Winter Camping and Backpacking",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/14.-How-to-Go-Winter-Camping-and-Backpacking-Author-Heart-of-America-Council.pdf",
+      "sha256": "e6e635362f3855871aa91bf173b0986e5ebd4fd28629e016f76d689cd48a6347",
+      "size_bytes": 67788
+    },
+    {
+      "filename": "Outback-Survival.pdf",
+      "title": "Outback Survival",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/15.-Outback-Survival-Author-Gordon-Dedman.pdf",
+      "sha256": "1159e3f0c6e0bff6e719ab4aacb900cf7cbd60df0b8a32858e4ff9641903a31a",
+      "size_bytes": 614892
+    },
+    {
+      "filename": "North-American-Basic-Wilderness-Survival-Skills-Manual.pdf",
+      "title": "North American Basic Wilderness Survival Skills Manual",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/North-American-Basic-Wilderness-Survival-Skills-Manual-Robert-Allen.pdf",
+      "sha256": "d540cfac6fc2a23ffead17488c1be8b800dfeabe2882f3770a3cd27801985955",
+      "size_bytes": 1081997
+    },
+    {
+      "filename": "Shelter-Construction-Techniques-for-Moderate-Weather.pdf",
+      "title": "Shelter Construction Techniques for Moderate Weather",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/Shelter-Construction-Techniques-for-Moderate-Weather-Nick-Weighton.pdf",
+      "sha256": "ea441c06e85b8d48f03cbce72a97679d4c2ab5644a646e8c3e2ddcecefc66be9",
+      "size_bytes": 1008203
+    },
+    {
+      "filename": "Shelter-Building-Designs.pdf",
+      "title": "Shelter Building Designs",
+      "source": "infobooks",
+      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/Shelter-Building-Designs-York-Ebor-District-Scouts.pdf",
+      "sha256": "ff589d045bc7ddbd06cf3b2d0f353e05679bf893bc3f3b8d459c9a8a0ed4a3df",
+      "size_bytes": 380539
+    }
+  ],
+  "failures": [
+    {
+      "title": "Composting - How to Make Fertilizer",
+      "url": "http://kazvswild.com/wp-content/uploads/2015/04/composting-how-to-make-fertilizer.pdf",
+      "source": "scp",
+      "error": "Wayback returned non-PDF content"
+    },
+    {
+      "title": "Greenhouse Whitefly Control",
+      "url": "http://kazvswild.com/wp-content/uploads/2015/04/greenhouse-whitefly-control.pdf",
+      "source": "scp",
+      "error": "Wayback failed: HTTP Error 404: Not Found"
+    },
+    {
+      "title": "SAS Survival Handbook",
+      "url": "http://www.landsurvival.com/downloads/SAS%20Survival%20Handbook.pdf",
+      "source": "scp",
+      "error": "Wayback failed: HTTP Error 404: Not Found"
+    },
+    {
+      "title": "The 1881 Household Cyclopedia",
+      "url": "https://graywolfsurvival.com/wp-content/uploads/1881_Household_Cyclopedia.pdf",
+      "source": "scp",
+      "error": "<urlopen error [Errno 11002] getaddrinfo failed>"
+    },
+    {
+      "title": "Canning and Preserving 1912",
+      "url": "https://graywolfsurvival.com/wp-content/uploads/Canning_and_preserving_1912.pdf",
+      "source": "scp",
+      "error": "<urlopen error [Errno 11002] getaddrinfo failed>"
+    },
+    {
+      "title": "How To Make Black Powder",
+      "url": "https://graywolfsurvival.com/wp-content/uploads/How-to-make-Black-Powder.pdf",
+      "source": "scp",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "title": "Physical Security FM 3-19.30",
+      "url": "https://graywolfsurvival.com/wp-content/uploads/Physical-Security-FM-3-19.30.pdf",
+      "source": "scp",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "title": "Preservation of Fish and Meat",
+      "url": "https://graywolfsurvival.com/wp-content/uploads/Preservation_of_Fish_and_Meat_2004.pdf",
+      "source": "scp",
+      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+    },
+    {
+      "title": "Rural Tanning Techniques",
+      "url": "https://graywolfsurvival.com/wp-content/uploads/Rural_Tanning_Techniques_No-68_1974.pdf",
+      "source": "scp",
+      "error": "<urlopen error [Errno 11002] getaddrinfo failed>"
+    },
+    {
+      "title": "The Handbook For Practical Farmers 1920",
+      "url": "https://graywolfsurvival.com/wp-content/uploads/The_Handbook_For_Practical_Farmers_1920.pdf",
+      "source": "scp",
+      "error": "<urlopen error [Errno 11002] getaddrinfo failed>"
+    },
+    {
+      "title": "Tricks of Trapping",
+      "url": "https://graywolfsurvival.com/wp-content/uploads/Tricks-of-Trapping.pdf",
+      "source": "scp",
+      "error": "<urlopen error [Errno 11002] getaddrinfo failed>"
+    },
+    {
+      "title": "USMC Summer Survival Course Handbook 2005",
+      "url": "https://graywolfsurvival.com/wp-content/uploads/USMC-Summer-Survival-Course-Handbook-_6_february-2005.pdf",
+      "source": "scp",
+      "error": "<urlopen error [Errno 11002] getaddrinfo failed>"
+    },
+    {
+      "title": "Water Treatment",
+      "url": "https://graywolfsurvival.com/wp-content/uploads/Water_-_Water_Treatment.pdf",
+      "source": "scp",
+      "error": "<urlopen error [Errno 11002] getaddrinfo failed>"
+    },
+    {
+      "title": "Army STP 21-1 Soldiers Manual Warrior Skills Level 1",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMTZiOGFmOGYtMzdiNC00NTA1LTk2MzgtMjExNmMyYzQ4MDM2",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Army STP 21-24 Warrior Skills Level 2-3-4",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvNTMyOThmYTYtMTUxOC00Y2U1LTk3NGItZmY5NTE1MjU2MzJh",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Army FM 21-76 Survival Manual",
+      "url": "https://docs.google.com/file/d/0B6GE42-kvADvZTY4YjZhMmMtOWNjYy00MDI5LWFhMTItYTkwYjkzZDcwNjE5/edit?pli=1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Army FM 31-70 Basic Cold Weather Manual",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvNGU4ODU0ZGQtMzNjNi00Mjk3LTljNTMtOWFjYzA0OTkzNzgz",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Army FM 20-3 Camouflage Concealment and Decoys",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMGRhYjQ3MzEtZDBjYi00YWYxLWE1YWUtM2FkMTBjYjQ2YzRj",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Army FM 5-103 Survivability",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvYWMxYWI1ZjQtNDc3MS00OTA0LThiNzUtNmQxN2JjZmQxODAz",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Army FM 3-06 Urban Operations",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvN2UwOTQwYWQtNTYwZi00ZjVlLWE5MmMtODAyOTdhYTIyODRl",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Navy SEAL Physical Fitness Guide",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KMGI5YjAyM2UtNDhhOS00ODNhLWJjZWUtYTIxYjkxN2MyZTEz",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "US Marines Close Quarters Combat Manual",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KZDgzNjNmOWUtM2I2Zi00NWZmLWI3NmMtNzFkZDVmZjYwNWU2",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "US Marine Corps Hand to Hand Combat",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KZmE5MWI5ZjMtNmZmYy00ZmIxLWFlNjUtY2RlNmJhNjQ3ZTYz",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "US Army Combatives FM 3-25.150",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KYWE1Mzg0NDUtZmJiNS00NTEwLWJjZjAtMWRkODg1MjZhNDlh",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Pressure Points Military Hand to Hand Combat Guide",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KOWU0ZDA1YmEtMzYwYi00NzJhLThmNTUtNzM4ODJjYTdhZDIx",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Practical Unarmed Combat by Moshe Feldenkrais",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KMWY2ZDc4MmYtZDk5MC00YmM3LTgyODUtYTRmMWJjNWI1YjQ1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Krav Maga Pressure Points Guide",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KZmRiNGZlMjEtOTI3ZC00MTM1LWE5ZWItN2UzMDA3YTkzODA2",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Aikido Revised",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KMzUxYjhmNWUtOTAxOC00OWVlLWJmMjMtMzRjZWJjOGZiM2Rh",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Combat Conditioning Manual JiuJitsu",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KNGVjOTdjYTctNzNkYi00ZTdlLWE3OGUtZTVlMzNiNDllYWYy",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Marine Martial Arts Training",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KNzFmMjIzMDEtMDIyNi00NTBhLTk3NDMtOGYwODIxMDRlYmUy",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Combat Survival Evasion",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvOTk3OTlkNDgtODZkZi00NmQzLWFjMGItMGJmNTdjODYzOTdk",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "USMC Kill or Get Killed",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KM2Q2ZWQ3YmQtMzZhYS00ZWVhLTliYTItNDBiMGY2MzYxNzNm",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Surviving Terrorism",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvZDIzM2MxOWUtMDY5NS00OTE2LWFlNGYtOWJjMWQzMmEyMTlj",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Marines Individual Terrorism Survival",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMjZiZThiNWQtOTdjOC00ZmMwLTk4YzAtMjY2ODFkNWMwYWQz",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Army FM 5-428 Concrete and Masonry",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMDczYTY3YmUtNWY0ZC00ZTJiLTk2Y2QtMjBmNWZiZjU4OWI3",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Army FM 5-426 Carpentry",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMDM0ZDA4YzEtM2I0My00NjlhLWE1YTItMjdlYmNjN2YwZjc1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "How to Find Your Way - US Army",
+      "url": "https://docs.google.com/file/d/0B6GE42-kvADvZWE4M2NjN2EtYjJkMC00YTUyLWE0M2UtZTNiOGFlNzc1Njc1/edit?pli=1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Urban Preparation Kit Part I On-Body Kit",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvYzYyNTg4M2ItYzk4Zi00MzU2LWFlNjEtZmNiMjU4ZGE0MWVi",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Western Australia Police Aids To Survival",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvYTUzYjdkYzQtMGRlYS00YmEzLWFhYzYtNTJiOTdhN2EwY2Yw",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "USMC Winter Survival Course",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvOWM5OTBiMzgtNzE4Ny00ZTgzLTgzMmMtM2E5ZWY1YzVlZmQw",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "USMC Summer Survival Course",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMmIxZGVmMDMtYTRiZC00MjRiLTljNzgtYjA1YTNiMjk3Mzhh",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "How to Build a Debris Hut",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvOWE3NWI5MTMtNWViMi00M2UyLWIxY2EtZGE0OTY4MjdkNTYy",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Shelters Shacks Shanties - Daniel Carter Beard",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KZmI0YjA2YzUtZmViNS00YzVmLThkMzktNmJlMzk1YTFiZTc1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Edible Wild Plants",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMjJhNmM4ODEtNmU3Yy00OTJkLWFkMTAtZTU1NzQ2MmE4ZmI1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Common Edible Mushrooms",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMDZjZTA1NjAtZTQ2Ni00OWU2LTk2NDItODVlOGY5NzM5YTU2",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "WHO Monographs on Selected Medicinal Plants Vol 3",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvODhhMTdkNGMtNjEyNy00NDNlLTg2M2MtMzA2ODhhYzNjNGFm",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "WHO Monographs on Selected Medicinal Plants Vol 2",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvOTk4MzRkYWYtZTNhNi00OTg0LThlMGYtN2IxYWVmODE5MzY3",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "WHO Monographs on Selected Medicinal Plants Vol 1",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvY2RjMDk3ODMtZDFjYi00YmM3LWFkOGMtMTgyODExMmJmYjk1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Useful Wild Plants of the United States and Canada",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvZjY2NTcyNzktOTIyMy00Y2Y1LTg0MzYtNzUyZGZhMWQ4MTI4",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "How to Make Herbal Preparations",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvZDVkMjQ4MGMtZmJlZC00OGE1LWFlYzItMmYyNjY5NjEwZDA4",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Survival Edible Medicinal Plants",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMjkyY2MwMzQtMDk5ZC00ZjFjLTg1YzQtZjcyZjJmYzY0OTBm",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Medicinal Plants in Folk Tradition",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvNGNmZGNlZmItMjA1MS00MmU4LWE4YjUtMWZhNjY0M2E3NDNj",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Herbal PDR",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvZTRkZmE5NTctM2JiNC00NTExLTgxMWYtYWE0MDg0MzQyYTcz",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Healing Pets With Alternative Medicine",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvNDc2M2Y3ZGMtOGVhZS00OTEwLWJkZDYtY2NjM2I1YTU5MDY0",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Edible and Medicinal Plants",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvNmE4MDBmMzAtMDU3NC00NWZiLThhY2QtMmYwNWRmNjZkNWQ0",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Crow Indian Recipes and Herbal Medicines",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvNDIxNjM2OTgtYzBmYS00ZjI3LWE0MTItODExM2ZkNTk1NmQ2",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Anticancer Therapeutics",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvODU0MTMwNGMtN2NhOS00ZjUyLWFlNjEtMmMwMzNmNmQwZmVj",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "A Complete Handbook of Nature Cure",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvYjEyOTQxM2EtZjBkMi00Njg1LWFjYWEtMmU5ODg0MjRhYzEz",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "WHO Monographs on Selected Medicinal Plants Vol 4",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvYzI0YzgyNGMtNGIzNS00MjlkLTg5MDAtNWVmZDY4NmU3MzM4",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Traps and Snares",
+      "url": "https://docs.google.com/file/d/0B6GE42-kvADvMTY3NmZhNGUtN2RmOS00MzA4LThiNTctOGU1MTllODM0Zjlh/edit?pli=1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Camp Life in the Woods and Tricks of Trapping",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvNWRlMjMzODAtN2ZhZS00MGZlLWI1MTgtODY4MTBiZDg2ZDhi",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Alpine Living for SAR",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMjZlODlhMDAtYTM3MS00OWFhLTg3ZWMtZWQ1YWQzNTZmYjU1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Cold Weather Survival Rev 2",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvOWQyNjhhZTItMGMzYS00ZjgyLTliYzgtN2IxYjVlYWE3M2Vi",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Cold Weather Survival",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvODM5ZjE1YTAtODkwNC00NTcxLTliNDAtMWRlZmU1MWNjZGJl",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Survival In Cold Weather Areas",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvYjQ1MjJmODgtZjVmZS00YTQ4LTk4NGItM2JkZjAwMmYxZDVi",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Wilderness Survival Skills",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMjAwNmY0OTctNDA4ZS00ZjI2LWE0MjgtZjhiMTc5NzU1ODFi",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Survival Wilderness Survival",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMGUyOTg4YjctYjM0OC00N2NiLTg0NTAtYWU2OGIzNjI2ZmRl",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Adventurer Woodstravel Module",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvYjhjMDg5Y2YtMGQ0ZS00NjNjLWExYWItNTE4NmM1ZjNhNDZj",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Australian Bushcraft",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KN2Q5N2I0NTQtZjE1OS00ZTRiLWIxNDAtMzkxMzU0ODYwMmRk",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Flintknapping",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KNTc3MTcxMzQtZjQ0MS00ODc2LWEzNDUtMzlmMWI5ZDM1NDMy",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "The Book of Camplore and Woodcraft - Dan Beard",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KYTFlZjA5MjEtYTU1OS00ZTMwLWI2Y2UtOTNhM2EyMGY2Mjcz",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Bushcraft Scouting Woodlore Notes",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KMGMyNjFhMDgtMzlkNC00NDNlLWJiZmMtZGU2ODhkODY0MjZl",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Woodsmanship",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KOGI2MzA1NTAtMGViMC00ODA0LWFlNTgtOTNjODdmNTg4YTNk",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Vegetable Garden Encyclopedia",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KYjY5MzA0MzctM2UxOS00YmQwLTliNWMtNGFlYzIwYmZmNzQw",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Preserving Game Meats",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMWIyMjUwOTEtMjgyZS00NGZiLTkyMDctNjY1ZjIxNGM3NGM5",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Guide 5 Preparing and Canning Poultry Red Meats and Seafood",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KN2IzZjRmNjAtZmU5Mi00M2NiLWE3ZTktYTE3NzQyY2Y5NTQ1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "The Jerky Chef",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KOTJlNjM5ZDItY2ZlOS00ZmY0LTlkOTYtNDIxYTA0YzUzNjc0",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Solar Dehydrator",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KOThkZTU4NjctMTJhMi00NGE3LTlmN2QtYmZlYzQ4YTkwZTkw",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Small Scale Food Drying Technologies",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KYzRiYjRhYzUtMTcyMC00NTI5LWJlOWUtZTk5MDcwYmQwNzlm",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Preserving Food Drying Fruits And Vegetables",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KNzNkNzU0NzAtZWU3NC00NTVlLThhNTMtYTcxYjIzMDA2MTli",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Guide 6 Preparing and Canning Fermented Foods and Pickled Vegetables",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KODViZmYwZDEtOWE0OC00ZGJjLTgxZTItODMyMzllNGYwMzk4",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "1999 Dutch Oven Cookbook",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KYWRkNDgyNjYtZmU1NS00NGRhLTkyZjEtNmY0ODdkZDk4OWU4",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Boy Scout Cookbook",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KMjMwMmJhNTUtYTYzZC00MzA3LWE3MTYtMWNmZWQ0ZjZlNGU3",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "The Back Country Recipe Book",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KOTE3M2U0ZDYtZmQ3NC00NWI4LThiZWItMjZhMzU0MzRiZWY2",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Native Berry Recipes",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KMmM5OTk4NzQtYzY4OC00OTFlLWJhOGYtOThmMDEwMzk2M2Mz",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "The Baby Food",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KZDNhMmExZmUtNmI3YS00YjBiLWIyNTktOWRhMGExZmYzNTU0",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Bushcraft Leather Work",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KZjdmNDhkNDMtNTI4MC00ZWM3LWE1MTMtZGE3MzkyNmFmMjg2",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Foxfire One",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KODJlMTU3MTItY2MxNS00MTZiLWEyODEtMTU5YWQwZjZmZDFi",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Foxfire Two",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KOTU2MjI3NTAtYTNjYS00ZDZhLWI0ZDMtZDNjNjMwMzRiNDM1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Foxfire Three",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KNzJjOWYxMDUtNjg1ZC00YzRmLWE0NTItYmMzMThhMjlhZmM2",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "The Unofficial MacGyver How-To Handbook",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KMzZhYTE0OTMtNTdjNy00ZWNkLWI2MzQtNDIwMDJhZWZkYTMz",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "The Complete Guide to Home Carpentry",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KZmUzNzJmZWYtZTEyZC00YmNhLWI3YjEtZjEyN2VmMTMyMTIw",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Metal Forming",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KY2YzNDNhOTUtMDYzMC00OGUwLTlkNTEtNTdhZTliZWJhZWRm",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "HHS Pandemic Influenza Plan",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvZmVkYTM3MTQtOWVmMi00YWNjLWE2MjktYTQ0NDAxMzZlMWQ1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Personal Wilderness Medical Kit",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMGE0Nzk5ZjktOWU3MC00ZTkxLWIwZDgtNTk0Yzk0YzVmNzky",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Wound Closure Manual",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMmM2ZDA0Y2ItM2NiYS00YzVjLTgyYTAtYWExMmUzNjczZDc1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Full First Aid Manual FM 21-11",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvYjM2MTVhNjQtMjYwNS00YmU2LTk5MTQtYjRmNWI3NDA4YTRl",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Emergency War Surgery",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvNzk4M2ZmNWItMzM1Yi00NDNkLWI2MjItNDQxOGQyNTBlMTNm",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "USMC Wilderness Medicine Course",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvZDhmYjA5YzQtOGRhNi00MDkyLTkxZWMtYWYwYjM1YjA3NTc4",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Survival Medicine",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMThhN2YxMTctNDU4ZS00MGMzLTk2NzgtNmE5YzI5Yzk0ZTky",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Radio Monitoring How-to Guide",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KZDU5NWNiMGUtZTUxYy00OTI2LWEyMTAtOWFjYTk4OWQxM2Nm",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Practical Guide to Free Energy Devices",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KNzlmZmFhZGEtOWZkYy00NDJlLWI5ZDktM2JlYjhmOGQwMmE5",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Survival Water Purification",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvODk1YThhZDUtNzEyNC00MDA4LThiNTAtZGY1NDQyNGI2M2Q2",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Knots - Andrew Adamides",
+      "url": "https://docs.google.com/file/d/0B6GE42-kvADvNTk2MDU0MzgtODE0My00ODVjLWJhMTgtOGMyMzhiOWFmZjk1/edit?pli=1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Sea Scout Knots",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvNmE3ODUxNTQtOTAyYi00YjE5LThiYTUtNjkxZTY4Mjk1ZmIz",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Ropes Knots Ladders Lashings Anchorages",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvZjkyOTNlOTItNDUyMi00YjNhLWI3NjgtNzhmYzc0NjZlNzQy",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Knots Splices Attachments",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvZmUxMjUxZDUtODEyZC00OTk5LTlhYTktMDkwNmRiZmM1ZjY4",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Knots Splices and Rope Work",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvYjhiNzkxYjYtZDZlNy00NWIxLWIxMjMtMmJhNzM0ZDhkMTcx",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Knots for Mountaineering Camping Climbing Utility Rescue",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvNjJhMTA4ZGQtYjk3MC00YTUxLWEwOGItMDAxMjYzMTE4NDI5",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Knots by Andrew Adamides",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvNTk2MDU0MzgtODE0My00ODVjLWJhMTgtOGMyMzhiOWFmZjk1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Pioneering Knots and Lashings",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvOTBlNDExN2UtODM3Yy00YTg2LWI2NDEtYjFiNDViYjQ4OGQx",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "KNOTS",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvZGY3MDhkMzAtOGQxMC00M2I2LWE1NzItY2Y4NmFjZTFiMmIw",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Handbook of Knots and Splices",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvNjZmMDY0NGItZThhZS00OTcyLWJlYTktMjIxYjg2ZDc2NTQ4",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Fishing Knots Tying How To Tie A Knot",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMzIzNGQ1MGEtMWQxYi00MWE2LWJiNGEtNTMzOWIwN2I2NDNi",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Essential Fishing Knots",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMDMyMmNiMzctZGIyMC00Yjk5LThmMGUtOTRlOGRjNTBhODQ1",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Encyclopedia of Knots",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMzJiZmI2NTktMzM5Ni00MzU4LTg5M2ItMDJiMGI1MmRlNDk4",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Basic Book of Knots and Lashings",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvZDMzZTlmNjAtMjVmMS00NGNkLWI5YTEtMWM1ZTgxYTY3NGZk",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "What Knot - Useful Knots for Scouting and Climbing",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvMmI3MWM5MWQtNDI1Zi00YjJhLWEwODItZDRkNWNlZWQ0ZGY5",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Tying Farm Knots",
+      "url": "https://docs.google.com/open?id=0B6GE42-kvADvYzNmOGM5OTEtMTRmNy00MTc2LThiNDAtZmExYmE1YWMzMjZj",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Steal This Book",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KMTcyMjQ0NzgtNWQ5YS00YzEzLThmZWUtZTQ0Mjk5YzRmZGIy",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    },
+    {
+      "title": "Secret Hiding Places",
+      "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KOTMwN2EyNTQtNTAyZC00YTNiLWFkYzUtODg2ZWQyMjUwNThi",
+      "source": "scp-gdocs",
+      "error": "All Google Drive download strategies failed"
+    }
+  ],
+  "duplicate_map": {
+    "ABCs-of-Nuclear-Survival.pdf": "11-Steps-to-Survival-Canada-Emergency-Measures.pdf",
+    "Citizens-Homeland-Defense-Guide-II.pdf": "11-Steps-to-Survival-Canada-Emergency-Measures.pdf",
+    "Citizens-Homeland-Defense-Guide-I.pdf": "11-Steps-to-Survival-Canada-Emergency-Measures.pdf",
+    "Disaster-Supply-Kit.pdf": "11-Steps-to-Survival-Canada-Emergency-Measures.pdf",
+    "Emergency-Plan.pdf": "11-Steps-to-Survival-Canada-Emergency-Measures.pdf",
+    "Becoming-Self-Sufficient-for-Six-Months.pdf": "11-Steps-to-Survival-Canada-Emergency-Measures.pdf",
+    "Compact-Survival-Kit.pdf": "11-Steps-to-Survival-Canada-Emergency-Measures.pdf",
+    "Dangerous-Animals.pdf": "11-Steps-to-Survival-Canada-Emergency-Measures.pdf",
+    "Preparing-for-Disaster-for-People-With-Disabilities.pdf": "11-Steps-to-Survival-Canada-Emergency-Measures.pdf",
+    "Signaling-and-Direction-Finding.pdf": "11-Steps-to-Survival-Canada-Emergency-Measures.pdf",
+    "Social-Distancing-and-Pandemic-Readiness.pdf": "11-Steps-to-Survival-Canada-Emergency-Measures.pdf",
+    "Strengthening-Exterior-Doors.pdf": "11-Steps-to-Survival-Canada-Emergency-Measures.pdf",
+    "Surviving-in-the-City.pdf": "11-Steps-to-Survival-Canada-Emergency-Measures.pdf",
+    "Survive-Doomsday.pdf": "11-Steps-to-Survival-Canada-Emergency-Measures.pdf",
+    "Tactical-Ready-Guide.pdf": "11-Steps-to-Survival-Canada-Emergency-Measures.pdf",
+    "Test-The-Soil-First.pdf": "11-Steps-to-Survival-Canada-Emergency-Measures.pdf",
+    "The-Amateur-Garden.pdf": "11-Steps-to-Survival-Canada-Emergency-Measures.pdf",
+    "The-Construction-of-Secret-Hiding-Places.pdf": "11-Steps-to-Survival-Canada-Emergency-Measures.pdf",
+    "The-Effects-of-Nuclear-War.pdf": "11-Steps-to-Survival-Canada-Emergency-Measures.pdf",
+    "The-International-CBRN-Training.pdf": "11-Steps-to-Survival-Canada-Emergency-Measures.pdf",
+    "The-Worst-Case-Scenario-Survival-Handbook.pdf": "11-Steps-to-Survival-Canada-Emergency-Measures.pdf",
+    "Top-120-Cities-at-Risk-for-NBC-Attack.pdf": "11-Steps-to-Survival-Canada-Emergency-Measures.pdf",
+    "Nuclear-War-Survival-Skills.pdf": "Nuclear-War-Survival-Skills.pdf",
+    "Where-There-is-No-Dentist.pdf": "Where-There-is-No-Dentist.pdf"
+  },
+  "total_size_bytes": 428169237,
+  "total_size_mb": 408.33,
+  "retry_date": "2026-02-07T09:16:42.340500"
+}

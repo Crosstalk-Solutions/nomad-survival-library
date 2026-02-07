@@ -1,0 +1,9 @@
+# Temp/working files
+scripts/__pycache__/
+*.pyc
+temp/
+*.tmp
+
+# OS files
+.DS_Store
+Thumbs.db
