@@ -7,3 +7,8 @@ temp/
 # OS files
 .DS_Store
 Thumbs.db
+
+# Project-specific
+CLAUDE.md
+.claude/
+links.txt

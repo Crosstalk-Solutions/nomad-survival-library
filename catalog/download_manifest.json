@@ -1,8 +1,8 @@
 {
-  "download_date": "2026-02-07T08:43:36.979536",
-  "total_urls": 255,
-  "successful": 110,
-  "failed": 121,
+  "download_date": "2026-02-07T10:25:41.060469",
+  "total_urls": 317,
+  "successful": 156,
+  "failed": 137,
   "duplicates": 24,
   "items": [
     {
@@ -852,860 +852,1523 @@
       "is_gdocs": false
     },
     {
-      "filename": "You-Alone-in-the-Maine-Woods.pdf",
-      "title": "You Alone in the Maine Woods",
-      "source": "infobooks",
-      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/1.-You-Alone-in-the-Maine-Woods-Author-Michael-F-Richard-Brad-Rounds-Bryan-Courtois.pdf",
-      "sha256": "c6fa32ef6e45dafe9d82fdd256be1959898518ff6160d3f24fc6117bd7a6c68f",
-      "size_bytes": 4517827
+      "filename": "101-Practical-Uses-for-9-Essential-Oils.pdf",
+      "title": "101 Practical Uses for 9 Essential Oils",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/101%20Practical%20Uses%20for%209%20essential%20oils.pdf",
+      "sha256": "feda0e1d79430ba1a75dd09f15486edde4048e7c6d5d39cbf348f1f04ab33bb1",
+      "size_bytes": 95812,
+      "is_gdocs": false
     },
     {
-      "filename": "Survival-Calvin-Crest.pdf",
-      "title": "Survival - Calvin Crest",
-      "source": "infobooks",
-      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/3.-Survival-Author-Calvin-Crest.pdf",
-      "sha256": "ecde1d693345462a2af330089128e0286efb0b3a687684bd0963c46167656c4f",
-      "size_bytes": 465322
+      "filename": "4-H-Beekeeping.pdf",
+      "title": "4-H Beekeeping",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/4-h%20Beekeeping.pdf",
+      "sha256": "a4cf885643ed32a36f7c807237abc7f77dd1290e16375f11aba11bc4dee2b57a",
+      "size_bytes": 904519,
+      "is_gdocs": false
     },
     {
-      "filename": "Ultimate-Survival-Skills-Guide.pdf",
-      "title": "Ultimate Survival Skills Guide",
-      "source": "infobooks",
-      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/5.-Ultimate-Survival-Skills-Guide-Author-Joe-Marshall.pdf",
-      "sha256": "d404f2a6a4adaa4667eb85343d5effc4b2fb61f84421a16509e7d77917a150c9",
-      "size_bytes": 323817
+      "filename": "5-Simple-Rules-to-Winning-Any-Fight.pdf",
+      "title": "5 Simple Rules to Winning Any Fight",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/5%20Simple%20Rules%20to%20Winning%20Any%20Fight.pdf",
+      "sha256": "16805cdf08e50fe676165dfc787593f933809ec8462972327bc1b2dd6f80a094",
+      "size_bytes": 1610248,
+      "is_gdocs": false
     },
     {
-      "filename": "Wilderness-Survival.pdf",
-      "title": "Wilderness Survival",
-      "source": "infobooks",
-      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/2.-Wilderness-Survival-Author-Survivor-Library.pdf",
-      "sha256": "14c140f3b1c0f906c223a11e0183a02c7b37e16006c43298fb0b91508c82a6d3",
-      "size_bytes": 280025
+      "filename": "65-Amish-Recipes.pdf",
+      "title": "65 Amish Recipes",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/65%20Amish%20Recipes.pdf",
+      "sha256": "282b946e8a59f0d146fbe2a6ce1915c505e9bd69f7ccd54f8117a80169a3cf02",
+      "size_bytes": 177626,
+      "is_gdocs": false
     },
     {
-      "filename": "The-Elements-of-Surviving.pdf",
-      "title": "The Elements of Surviving",
-      "source": "infobooks",
-      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/4.-The-Elements-of-Surviving-Author-Saint-Paul-Public-Schools.pdf",
-      "sha256": "c537e73be27825e15b05d0ba4c5c398e6147ac760c3cba6f3cf0fb8dd688d527",
-      "size_bytes": 228685
+      "filename": "A-Better-Way-to-Gardening.pdf",
+      "title": "A Better Way to Gardening",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/A%20Better%20Way%20to%20Gardening.pdf",
+      "sha256": "9a5c4489d98dc721706a6d1c469945e762b5d1098e7042ad65fb9ac097c6c0b8",
+      "size_bytes": 629720,
+      "is_gdocs": false
     },
     {
-      "filename": "Survival-Civil-Aviation-Authority-NZ.pdf",
-      "title": "Survival - Civil Aviation Authority NZ",
-      "source": "infobooks",
-      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/6.-Survival-Author-Civil-Aviation-Authority-of-New-Zealand.pdf",
-      "sha256": "58c75a58c1c93e5cddf3c3dc8e8389b1cdfbfacea14548fda399cea4620c2c79",
-      "size_bytes": 1067030
+      "filename": "Above-Ground-Storm-Shelter.pdf",
+      "title": "Above Ground Storm Shelter",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Above%20Ground%20Storm%20Shelter.pdf",
+      "sha256": "1d435668476873a6fac7747bc67e2c262963183897d14233023bd64011fddc92",
+      "size_bytes": 180784,
+      "is_gdocs": false
     },
     {
-      "filename": "101-Ways-To-Start-A-Fire.pdf",
-      "title": "101 Ways To Start A Fire",
-      "source": "infobooks",
-      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/8.-A-Long-Term-Survival-Guide-101-Ways-To-Start-A-Fire-Author-Survival-Ready-Blog.pdf",
-      "sha256": "d43053bee9a92a5ea55522e960dbf372b0ad98af6eac074450d7cbdc2c7d7585",
-      "size_bytes": 2498359
+      "filename": "Acute-Medicine.pdf",
+      "title": "Acute Medicine",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Acute%20Medicine.pdf",
+      "sha256": "27cf61890c034f66ae9b736c7f72d354ab4bd9d97ad1397d6a0f428a9bb20aa2",
+      "size_bytes": 5052242,
+      "is_gdocs": false
     },
     {
-      "filename": "Survival-Skills-101.pdf",
-      "title": "Survival Skills 101",
-      "source": "infobooks",
-      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/9.-Survival-Skills-101-Author-Jason-Stevenson-Alison-Fromme.pdf",
-      "sha256": "d232e69d67b989c1e8750cabad690a6eabd31f4d13f70b4b9efe4c89aafaf51f",
-      "size_bytes": 1167506
+      "filename": "Aid-to-Survival.pdf",
+      "title": "Aid to Survival",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Aid-to-Survival.pdf",
+      "sha256": "fc727d8368b91055657e22f7b21f2930220568609406ba232b56d9fd2b6c14d1",
+      "size_bytes": 1088853,
+      "is_gdocs": false
     },
     {
-      "filename": "Winter-Survival-in-the-Backcountry.pdf",
-      "title": "Winter Survival in the Backcountry",
-      "source": "infobooks",
-      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/10.-Winter-survival-in-the-backcountry-inter-survival-in-the-backcountry-Author-Albertas-Parks.pdf",
-      "sha256": "a943290cb751569238715e07b1ab6b96cf868781cde344fade9ebbf85438acb4",
-      "size_bytes": 233011
+      "filename": "Army-FM-21-150-Hand-To-Hand-Combat.pdf",
+      "title": "Army FM 21-150 Hand To Hand Combat",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Army%20FM%2021-150%20-%20Hand%20To%20Hand%20Combat.pdf",
+      "sha256": "0d6fcc7e577b02f6c7cf732ee0fb527f93ff62fbffce425fd92a74054d3b2984",
+      "size_bytes": 5099900,
+      "is_gdocs": false
     },
     {
-      "filename": "Burning-Man-Family-Survival-Guide.pdf",
-      "title": "Burning Man Family Survival Guide",
-      "source": "infobooks",
-      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/12.-Burning-Man-Family-Survival-Guide-Author-Burning-Man.pdf",
-      "sha256": "d28f1d82f41822beff1151347c73c7ed52817e13ddbdd3fd4608a83ad380ce67",
-      "size_bytes": 513348
+      "filename": "Backcountry-Cookbook.pdf",
+      "title": "Backcountry Cookbook",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Backcountry%20Cookbook%20PDF.pdf",
+      "sha256": "941d58deebd5490d95ff432b60a46ed8ffe4f98d92adb42b6647c29ab90c9359",
+      "size_bytes": 271282,
+      "is_gdocs": false
     },
     {
-      "filename": "How-to-Use-a-Compass.pdf",
-      "title": "How to Use a Compass",
-      "source": "infobooks",
-      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/11.-How-to-use-a-compass-Author-Camp-Allatoona-Aquatics-Base.pdf",
-      "sha256": "a928b9f3e6bdb92dff88d9845269e41634a3882890f2863958f1d1936c1d0019",
-      "size_bytes": 665052
+      "filename": "Basic-Herbalism.pdf",
+      "title": "Basic Herbalism",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Basic%20Herbalism.pdf",
+      "sha256": "6e3a26a19755385690cfde30c97032b262c91ff92a6c5dba64362b1a8c38fc0b",
+      "size_bytes": 39390,
+      "is_gdocs": false
     },
     {
-      "filename": "How-to-Go-Winter-Camping-and-Backpacking.pdf",
-      "title": "How to Go Winter Camping and Backpacking",
-      "source": "infobooks",
-      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/14.-How-to-Go-Winter-Camping-and-Backpacking-Author-Heart-of-America-Council.pdf",
-      "sha256": "e6e635362f3855871aa91bf173b0986e5ebd4fd28629e016f76d689cd48a6347",
-      "size_bytes": 67788
+      "filename": "Basic-Survival-Medicine.pdf",
+      "title": "Basic Survival Medicine",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Basic%20Survival%20Medicine.pdf",
+      "sha256": "67acb3d823ccccfeb3ecda6b2bcc772800f73331f53c9174b565ae0780381045",
+      "size_bytes": 253356,
+      "is_gdocs": false
     },
     {
-      "filename": "Outback-Survival.pdf",
-      "title": "Outback Survival",
-      "source": "infobooks",
-      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/15.-Outback-Survival-Author-Gordon-Dedman.pdf",
-      "sha256": "1159e3f0c6e0bff6e719ab4aacb900cf7cbd60df0b8a32858e4ff9641903a31a",
-      "size_bytes": 614892
+      "filename": "Beginner-in-Bee-Culture.pdf",
+      "title": "Beginner in Bee Culture",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Beginner%20in%20Bee%20Culture.pdf",
+      "sha256": "c367a3529e7eefdde3ee1f0dea3c9bda6b0d7a76e4d1ff39ad8fd95665636f45",
+      "size_bytes": 943656,
+      "is_gdocs": false
     },
     {
-      "filename": "North-American-Basic-Wilderness-Survival-Skills-Manual.pdf",
-      "title": "North American Basic Wilderness Survival Skills Manual",
-      "source": "infobooks",
-      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/North-American-Basic-Wilderness-Survival-Skills-Manual-Robert-Allen.pdf",
-      "sha256": "d540cfac6fc2a23ffead17488c1be8b800dfeabe2882f3770a3cd27801985955",
-      "size_bytes": 1081997
+      "filename": "Best-Way-To-Split-Firewood.pdf",
+      "title": "Best Way To Split Firewood",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Best%20Way%20To%20Split%20Firewood.pdf",
+      "sha256": "f4d093e3943f8e430d9ab2da8fbe26519f59086f6107ab7661f58a04022f5ee5",
+      "size_bytes": 97307,
+      "is_gdocs": false
     },
     {
-      "filename": "Shelter-Construction-Techniques-for-Moderate-Weather.pdf",
-      "title": "Shelter Construction Techniques for Moderate Weather",
-      "source": "infobooks",
-      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/Shelter-Construction-Techniques-for-Moderate-Weather-Nick-Weighton.pdf",
-      "sha256": "ea441c06e85b8d48f03cbce72a97679d4c2ab5644a646e8c3e2ddcecefc66be9",
-      "size_bytes": 1008203
+      "filename": "Box-Oven-Cooking.pdf",
+      "title": "Box Oven Cooking",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Box%20Oven%20Cooking.pdf",
+      "sha256": "48617e464e658ee8162dae7c46a71576d72f09603dad3b641d594c28016ed148",
+      "size_bytes": 13710,
+      "is_gdocs": false
     },
     {
-      "filename": "Shelter-Building-Designs.pdf",
-      "title": "Shelter Building Designs",
-      "source": "infobooks",
-      "original_url": "https://pdf.infobooks.org//ING/382%20Survival/Shelter-Building-Designs-York-Ebor-District-Scouts.pdf",
-      "sha256": "ff589d045bc7ddbd06cf3b2d0f353e05679bf893bc3f3b8d459c9a8a0ed4a3df",
-      "size_bytes": 380539
+      "filename": "Bug-Out-Bag-Guide.pdf",
+      "title": "Bug Out Bag Guide",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Bug%20Out%20Bag.pdf",
+      "sha256": "9fc4d614d56432c1bac9effcf6e0253809d57d634a012b6f3b92232f2015496e",
+      "size_bytes": 1718328,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Bug-Out-Vehicle-Basics.pdf",
+      "title": "Bug Out Vehicle Basics",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Bug%20Out%20Vehicle%20Basics.pdf",
+      "sha256": "defc1fee58ba4b0c89e135ac9c2aa179cd3166fada255cafc9f9d53c2fd20976",
+      "size_bytes": 82751,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Build-A-Solar-Hydrogen-Fuel-Cell-System.pdf",
+      "title": "Build A Solar Hydrogen Fuel Cell System",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Build%20A%20Solar%20Hydrogen%20Fuel%20Cell%20System.pdf",
+      "sha256": "71c63a84c06c732c84fc6a2e3ebb8906dbc00b926d3dd5182b5db93b21d3877f",
+      "size_bytes": 3781467,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Build-Your-Own-12V-DC-Engine-Generator.pdf",
+      "title": "Build Your Own 12V DC Engine Generator",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Build%20Your%20Own%2012vdc%20Engine%20Generator.pdf",
+      "sha256": "c661bacaa51b2a9de23175f2cfc5019cc97f2d7df1c04d258d3af73d42e4eafe",
+      "size_bytes": 76422,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Bulletproofing-Homes.pdf",
+      "title": "Bulletproofing Homes",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Bulletproofing%20Homes.pdf",
+      "sha256": "8bc405fc1d0f7d98e2a45bb55c0e4dcafeba619948689fb09f2255c04718083b",
+      "size_bytes": 770053,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Canning-Breads-and-Cakes.pdf",
+      "title": "Canning Breads and Cakes",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Canning%20Breads%20and%20Cakes.pdf",
+      "sha256": "2bad0788a5512a4e2d439b2bb82e3fdcb7b9d806218f44f0fd03f55063468fba",
+      "size_bytes": 171811,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Canning-Butter.pdf",
+      "title": "Canning Butter",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Canning%20Butter.pdf",
+      "sha256": "ff969a7ab0225fa1dbb6d2320171134851490573bcef1f24de1c107dfd61847e",
+      "size_bytes": 5138,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Captain-Dave's-Survival-Guide.pdf",
+      "title": "Captain Dave's Survival Guide",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Captain%20Dave%27s%20Survival%20Guide.pdf",
+      "sha256": "fef27c498614e7446e7694b66221401513d7bb9efbf2dcaee730301c8e3f9d95",
+      "size_bytes": 223626,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Capturing-Heat.pdf",
+      "title": "Capturing Heat",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Capturing%20Heat.pdf",
+      "sha256": "1657c28e865d3582374342a74c07a6006054e4dcfa83c42cc9b832cec709bdc6",
+      "size_bytes": 1070925,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Chinese-Medicine.pdf",
+      "title": "Chinese Medicine",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Chinese%20Medicine.pdf",
+      "sha256": "c7646cdcd5939bda7df418c0c25b74bffd089486b0a76c07671cf6461b219470",
+      "size_bytes": 6546633,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Coal-Extenders.pdf",
+      "title": "Coal Extenders",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Coal%20Extenders.pdf",
+      "sha256": "529ca4aa320c9af2fdf38178b808eb12dc41309ebc29517b2ce9a1e992f72285",
+      "size_bytes": 152549,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Coal-Gasification.pdf",
+      "title": "Coal Gasification",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Coal%20Gasification.pdf",
+      "sha256": "cf20608bb15cfca0c336a5ce49837122121f5ea76e2957bbdde5f04cde02a166",
+      "size_bytes": 474013,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Combat-First-Aid.pdf",
+      "title": "Combat First Aid",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Combat%20First%20Aid.pdf",
+      "sha256": "cd927b8c76c60776373a9961d4d09db4e4bc8038b4802c1c41560ecc9590c5cf",
+      "size_bytes": 3771107,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Combat-Shelters.pdf",
+      "title": "Combat Shelters",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Combat%20Shelters.pdf",
+      "sha256": "11ebd5dbd8140c66d988e3c08cba3d04830547027fb908b9e149b44fe451a377",
+      "size_bytes": 1757329,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Composting-Toilet.pdf",
+      "title": "Composting Toilet",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Composting%20Toilet.pdf",
+      "sha256": "2ebc80c752cfdd66351a7b0bd4584de6809a1afa8754dbce91f40c8238fba126",
+      "size_bytes": 161594,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Control-of-Household-Insects.pdf",
+      "title": "Control of Household Insects",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Control%20of%20household%20insects.pdf",
+      "sha256": "25a6eaf0b8ab25e56f6c6ec792050348e1aae9dff4e195c4d4f06b31dfae0285",
+      "size_bytes": 2236532,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Cooking-Canning-Cold-Storage.pdf",
+      "title": "Cooking Canning Cold Storage",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Cooking%20canning%20cold%20storage.pdf",
+      "sha256": "7a0b7d3739eb21a10d9b529ca5a169fbd6bda3b15f0110b5301d4626f3da048b",
+      "size_bytes": 1605290,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Cure-of-Aneurism-by-Pressure.pdf",
+      "title": "Cure of Aneurism by Pressure",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Cure%20of%20aneurism%20by%20pressure.pdf",
+      "sha256": "b6e96e5e6339b050071124ac18302f76d863fc1db20d4038b41792998852e3d1",
+      "size_bytes": 1646731,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Dehydrating-Food.pdf",
+      "title": "Dehydrating Food",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Dehydrating%20Food.pdf",
+      "sha256": "2c4229893a250c7c3e0afe9ebb0360414ad9ff3363772ea8702da2e1936d1876",
+      "size_bytes": 215204,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Desert-Survival.pdf",
+      "title": "Desert Survival",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Desert%20Survival.pdf",
+      "sha256": "c08337ad7438e08bc41a9813d189a23a77dc6c3ab16d8bc8a7d05f229482d9f0",
+      "size_bytes": 90288,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Ditch-Medicine-Advanced-Field-Procedures-for-Emergencies.pdf",
+      "title": "Ditch Medicine - Advanced Field Procedures for Emergencies",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Ditch-Medicine-Advanced-Field-Procedures-For-Emergencies-1993.pdf",
+      "sha256": "dcbf05942c97faf7444dfcf804ba4784557b308a48057227ddeb892d824c340f",
+      "size_bytes": 11462156,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Emergency-Disinfection-of-Drinking-Water.pdf",
+      "title": "Emergency Disinfection of Drinking Water",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/EMERGENCY%20DISINFECTION%20OF%20DRINKING%20WATER.pdf",
+      "sha256": "30b253a3bc562f937d5a50535c7e4cfb7859ed38b97974a0a3c578a12e4457d4",
+      "size_bytes": 328003,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Emergency-Childbirth.pdf",
+      "title": "Emergency Childbirth",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Emergency%20Childbirth.pdf",
+      "sha256": "ea70be5578020454d2cfdfc1f4304fdf9d0c809dd813503b1181ea5c618819d2",
+      "size_bytes": 15944,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Fighting-Fire.pdf",
+      "title": "Fighting Fire",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Fighting%20fire.pdf",
+      "sha256": "b4baeb48e8f66fd901ac6ee4176e40eb40697644b640520730d6facccb0380a8",
+      "size_bytes": 210998,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Hobo-Stove.pdf",
+      "title": "Hobo Stove",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Hobo%20Stove.pdf",
+      "sha256": "f308107283d5c66a4343243cc154f9148e4cbcf8c3b8c42050d0e98764eafda1",
+      "size_bytes": 94742,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Homemade-Batteries.pdf",
+      "title": "Homemade Batteries",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Homemade%20Batteries.pdf",
+      "sha256": "ec60537e60896f65d2e9d1595ea6444dc159c112b704658169618a9ae288c36f",
+      "size_bytes": 783710,
+      "is_gdocs": false
+    },
+    {
+      "filename": "How-To-Make-Insect-Repellant.pdf",
+      "title": "How To Make Insect Repellant",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/How%20To%20Make%20Insect%20Repellant.pdf",
+      "sha256": "408ac1f523444ae77af042457989f448e4a3a2167d88908482ea1d7079f4c477",
+      "size_bytes": 614791,
+      "is_gdocs": false
+    },
+    {
+      "filename": "How-to-Build-a-Debris-Hut.pdf",
+      "title": "How to Build a Debris Hut",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/How-to-Build-a-Debris-Hut.pdf",
+      "sha256": "bb4aac41ca241a49adf532765cf58373c5e6328157b86dfa767bf72898c95129",
+      "size_bytes": 2189764,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Human-Waste-Sanitation.pdf",
+      "title": "Human Waste Sanitation",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Human%20Waste%20Sanitation.pdf",
+      "sha256": "a96b37dbab20f1951acac016331f47bf41332abd9eb06bd29e35728074d1890f",
+      "size_bytes": 1960818,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Keeping-Food-Safe-During-an-Emergency.pdf",
+      "title": "Keeping Food Safe During an Emergency",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Keeping%20Food%20Safe%20During%20an%20Emergency.pdf",
+      "sha256": "967b1ad98673d0fadf9bf1a5e0c84d80ac95dd47d880649ae9871e0683890e53",
+      "size_bytes": 76493,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Keeping-Out-Rodents.pdf",
+      "title": "Keeping Out Rodents",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Keeping%20Out%20Rodents..pdf",
+      "sha256": "5626245c9bc9651a2f80450acde282fa00b75ffc3da90fd56fdd71e94cfebf63",
+      "size_bytes": 193286,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Medicinal-Plants.pdf",
+      "title": "Medicinal Plants",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/MEDICINAL%20PLANTS.pdf",
+      "sha256": "04234cbd5f5b9085189615eb64719be74fa7ccf03c9f338046f92fe8df7387f8",
+      "size_bytes": 908981,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Make-Your-Own-MREs.pdf",
+      "title": "Make Your Own MREs",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Make%20your%20own%20MREs.pdf",
+      "sha256": "50a6ce5678929bdcaa71cf06f511ade698c2e13e1be40eb17064f8f12aee8ff2",
+      "size_bytes": 254476,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Making-Charcoal.pdf",
+      "title": "Making Charcoal",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Making%20Charcoal.pdf",
+      "sha256": "0926fc0e3aa1a84bb37123cfacb6e3aec4d907e6798e4f71f302e5c3a4b9e53a",
+      "size_bytes": 106121,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Medical-Survival-Wound-Closure-Manual.pdf",
+      "title": "Medical Survival Wound Closure Manual",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Medical-Survival-Wound-Closure-Manual.pdf",
+      "sha256": "5e7e39caddd45df7e6b7a5f505478dcd0f64c1e0946ae7c1e52acd87373eb5b2",
+      "size_bytes": 1366604,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Nature-Cure-and-Natural-Methods.pdf",
+      "title": "Nature Cure and Natural Methods",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/NATURE%20CURE%20AND%20NATURAL%20METHODS.pdf",
+      "sha256": "adeb55fd654b199747d27f657d76c317a680f493797782078fa0067513b29115",
+      "size_bytes": 1324690,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Old-Laundry-Manual.pdf",
+      "title": "Old Laundry Manual",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Old%20Laundry%20Manual.pdf",
+      "sha256": "8f185d53d8de110d27f9f4e20239392820de4b957601bcf28fa12002b57e2d81",
+      "size_bytes": 1346351,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Processing-Your-Deer-at-Home.pdf",
+      "title": "Processing Your Deer at Home",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Processing%20Your%20Deer%20at%20Home.pdf",
+      "sha256": "c43ed3fe36bf10e786d29b7f3c221a743f6ad0484e9923dbbfbcfd074c6657ab",
+      "size_bytes": 1923791,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Special-Forces-Caching-Techniques.pdf",
+      "title": "Special Forces Caching Techniques",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Special%20Forces%20Caching%20Techniques.pdf",
+      "sha256": "4e689ff36357548077836118636d5d0519949d5f360f5c1aeba799fc8c8a93fc",
+      "size_bytes": 67120,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Surviving-The-New-World-Order.pdf",
+      "title": "Surviving The New World Order",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Surviving%20The%20New%20World%20Order.pdf",
+      "sha256": "afaba9b1ab8b80b2f38280baa4dc63df172b652202503537a6e94302d1e37e4f",
+      "size_bytes": 1279548,
+      "is_gdocs": false
+    },
+    {
+      "filename": "The-Complete-Guide-to-Home-Carpentry.pdf",
+      "title": "The Complete Guide to Home Carpentry",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/The-Complete-Guide-to-Home-Carpentry.pdf",
+      "sha256": "2489d69c3c5223a1e1981903bc40ea947fe7d2d5ac489610ed3121a72465bc94",
+      "size_bytes": 19487967,
+      "is_gdocs": false
+    },
+    {
+      "filename": "The-Making-of-Leather.pdf",
+      "title": "The Making of Leather",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/The-Making-of-Leather-by-Procter-Makingofleather00procrich.pdf",
+      "sha256": "2313e8aa871a280b573fd7420f0eb6d675b7b67f8c6e819240cf0db98860aa44",
+      "size_bytes": 15053370,
+      "is_gdocs": false
+    },
+    {
+      "filename": "The-New-Complete-Book-of-Food.pdf",
+      "title": "The New Complete Book of Food",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/The-New-Complete-Book-of-Food.pdf",
+      "sha256": "28ca49ef0d098150b6ffc0ff0699cf184525efde1dc2b5e5982b14d0f96c46ad",
+      "size_bytes": 2208576,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Traps.pdf",
+      "title": "Traps",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Traps.pdf",
+      "sha256": "0db5c7aad6e8ab7de5a0f1488802754cb2e3d9d041df909989e7c209a74376ef",
+      "size_bytes": 528172,
+      "is_gdocs": false
+    },
+    {
+      "filename": "USDA-Utah-Canning-Guide.pdf",
+      "title": "USDA Utah Canning Guide",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/USDA-utah-can-guide-05.pdf",
+      "sha256": "a62551c79642f7f24daf1b991b2d3dd4a101f1ecbd9225e6cac6bc7662573a34",
+      "size_bytes": 335055,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Using-A-Wood-Cookstove.pdf",
+      "title": "Using A Wood Cookstove",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/Using%20A%20Wood%20Cookstove.pdf",
+      "sha256": "3da628a217161c846f3be8f0a619841b02119d2e0f7e7d7ff51c475eee83dcab",
+      "size_bytes": 85913,
+      "is_gdocs": false
+    },
+    {
+      "filename": "Personal-Wilderness-Medical-Kit.pdf",
+      "title": "Personal Wilderness Medical Kit",
+      "source": "archive-org",
+      "original_url": "https://archive.org/download/homesteading-survival-manuals/survival-personal-wilderness-medical-kit.pdf",
+      "sha256": "33501253b638a000f0b04905c1cfa99a9cc59b32d7063a63e40dd027c9f2343f",
+      "size_bytes": 314495,
+      "is_gdocs": false
     }
   ],
   "failures": [
     {
+      "title": "You Alone in the Maine Woods",
+      "url": "https://pdf.infobooks.org//ING/382%20Survival/1.-You-Alone-in-the-Maine-Woods-Author-Michael-F-Richard-Brad-Rounds-Bryan-Courtois.pdf",
+      "download_url": "https://pdf.infobooks.org//ING/382%20Survival/1.-You-Alone-in-the-Maine-Woods-Author-Michael-F-Richard-Brad-Rounds-Bryan-Courtois.pdf",
+      "source": "infobooks",
+      "error": "HTTP 403: Forbidden"
+    },
+    {
+      "title": "Survival - Calvin Crest",
+      "url": "https://pdf.infobooks.org//ING/382%20Survival/3.-Survival-Author-Calvin-Crest.pdf",
+      "download_url": "https://pdf.infobooks.org//ING/382%20Survival/3.-Survival-Author-Calvin-Crest.pdf",
+      "source": "infobooks",
+      "error": "HTTP 403: Forbidden"
+    },
+    {
+      "title": "Ultimate Survival Skills Guide",
+      "url": "https://pdf.infobooks.org//ING/382%20Survival/5.-Ultimate-Survival-Skills-Guide-Author-Joe-Marshall.pdf",
+      "download_url": "https://pdf.infobooks.org//ING/382%20Survival/5.-Ultimate-Survival-Skills-Guide-Author-Joe-Marshall.pdf",
+      "source": "infobooks",
+      "error": "HTTP 403: Forbidden"
+    },
+    {
+      "title": "Wilderness Survival",
+      "url": "https://pdf.infobooks.org//ING/382%20Survival/2.-Wilderness-Survival-Author-Survivor-Library.pdf",
+      "download_url": "https://pdf.infobooks.org//ING/382%20Survival/2.-Wilderness-Survival-Author-Survivor-Library.pdf",
+      "source": "infobooks",
+      "error": "HTTP 403: Forbidden"
+    },
+    {
+      "title": "The Elements of Surviving",
+      "url": "https://pdf.infobooks.org//ING/382%20Survival/4.-The-Elements-of-Surviving-Author-Saint-Paul-Public-Schools.pdf",
+      "download_url": "https://pdf.infobooks.org//ING/382%20Survival/4.-The-Elements-of-Surviving-Author-Saint-Paul-Public-Schools.pdf",
+      "source": "infobooks",
+      "error": "HTTP 403: Forbidden"
+    },
+    {
+      "title": "Survival - Civil Aviation Authority NZ",
+      "url": "https://pdf.infobooks.org//ING/382%20Survival/6.-Survival-Author-Civil-Aviation-Authority-of-New-Zealand.pdf",
+      "download_url": "https://pdf.infobooks.org//ING/382%20Survival/6.-Survival-Author-Civil-Aviation-Authority-of-New-Zealand.pdf",
+      "source": "infobooks",
+      "error": "HTTP 403: Forbidden"
+    },
+    {
+      "title": "101 Ways To Start A Fire",
+      "url": "https://pdf.infobooks.org//ING/382%20Survival/8.-A-Long-Term-Survival-Guide-101-Ways-To-Start-A-Fire-Author-Survival-Ready-Blog.pdf",
+      "download_url": "https://pdf.infobooks.org//ING/382%20Survival/8.-A-Long-Term-Survival-Guide-101-Ways-To-Start-A-Fire-Author-Survival-Ready-Blog.pdf",
+      "source": "infobooks",
+      "error": "HTTP 403: Forbidden"
+    },
+    {
+      "title": "Survival Skills 101",
+      "url": "https://pdf.infobooks.org//ING/382%20Survival/9.-Survival-Skills-101-Author-Jason-Stevenson-Alison-Fromme.pdf",
+      "download_url": "https://pdf.infobooks.org//ING/382%20Survival/9.-Survival-Skills-101-Author-Jason-Stevenson-Alison-Fromme.pdf",
+      "source": "infobooks",
+      "error": "HTTP 403: Forbidden"
+    },
+    {
+      "title": "Winter Survival in the Backcountry",
+      "url": "https://pdf.infobooks.org//ING/382%20Survival/10.-Winter-survival-in-the-backcountry-inter-survival-in-the-backcountry-Author-Albertas-Parks.pdf",
+      "download_url": "https://pdf.infobooks.org//ING/382%20Survival/10.-Winter-survival-in-the-backcountry-inter-survival-in-the-backcountry-Author-Albertas-Parks.pdf",
+      "source": "infobooks",
+      "error": "HTTP 403: Forbidden"
+    },
+    {
+      "title": "Burning Man Family Survival Guide",
+      "url": "https://pdf.infobooks.org//ING/382%20Survival/12.-Burning-Man-Family-Survival-Guide-Author-Burning-Man.pdf",
+      "download_url": "https://pdf.infobooks.org//ING/382%20Survival/12.-Burning-Man-Family-Survival-Guide-Author-Burning-Man.pdf",
+      "source": "infobooks",
+      "error": "HTTP 403: Forbidden"
+    },
+    {
+      "title": "How to Use a Compass",
+      "url": "https://pdf.infobooks.org//ING/382%20Survival/11.-How-to-use-a-compass-Author-Camp-Allatoona-Aquatics-Base.pdf",
+      "download_url": "https://pdf.infobooks.org//ING/382%20Survival/11.-How-to-use-a-compass-Author-Camp-Allatoona-Aquatics-Base.pdf",
+      "source": "infobooks",
+      "error": "HTTP 403: Forbidden"
+    },
+    {
+      "title": "How to Go Winter Camping and Backpacking",
+      "url": "https://pdf.infobooks.org//ING/382%20Survival/14.-How-to-Go-Winter-Camping-and-Backpacking-Author-Heart-of-America-Council.pdf",
+      "download_url": "https://pdf.infobooks.org//ING/382%20Survival/14.-How-to-Go-Winter-Camping-and-Backpacking-Author-Heart-of-America-Council.pdf",
+      "source": "infobooks",
+      "error": "HTTP 403: Forbidden"
+    },
+    {
+      "title": "Outback Survival",
+      "url": "https://pdf.infobooks.org//ING/382%20Survival/15.-Outback-Survival-Author-Gordon-Dedman.pdf",
+      "download_url": "https://pdf.infobooks.org//ING/382%20Survival/15.-Outback-Survival-Author-Gordon-Dedman.pdf",
+      "source": "infobooks",
+      "error": "HTTP 403: Forbidden"
+    },
+    {
+      "title": "North American Basic Wilderness Survival Skills Manual",
+      "url": "https://pdf.infobooks.org//ING/382%20Survival/North-American-Basic-Wilderness-Survival-Skills-Manual-Robert-Allen.pdf",
+      "download_url": "https://pdf.infobooks.org//ING/382%20Survival/North-American-Basic-Wilderness-Survival-Skills-Manual-Robert-Allen.pdf",
+      "source": "infobooks",
+      "error": "HTTP 403: Forbidden"
+    },
+    {
+      "title": "Shelter Construction Techniques for Moderate Weather",
+      "url": "https://pdf.infobooks.org//ING/382%20Survival/Shelter-Construction-Techniques-for-Moderate-Weather-Nick-Weighton.pdf",
+      "download_url": "https://pdf.infobooks.org//ING/382%20Survival/Shelter-Construction-Techniques-for-Moderate-Weather-Nick-Weighton.pdf",
+      "source": "infobooks",
+      "error": "HTTP 403: Forbidden"
+    },
+    {
+      "title": "Shelter Building Designs",
+      "url": "https://pdf.infobooks.org//ING/382%20Survival/Shelter-Building-Designs-York-Ebor-District-Scouts.pdf",
+      "download_url": "https://pdf.infobooks.org//ING/382%20Survival/Shelter-Building-Designs-York-Ebor-District-Scouts.pdf",
+      "source": "infobooks",
+      "error": "HTTP 403: Forbidden"
+    },
+    {
       "title": "Composting - How to Make Fertilizer",
       "url": "http://kazvswild.com/wp-content/uploads/2015/04/composting-how-to-make-fertilizer.pdf",
+      "download_url": "http://kazvswild.com/wp-content/uploads/2015/04/composting-how-to-make-fertilizer.pdf",
       "source": "scp",
-      "error": "Wayback returned non-PDF content"
+      "error": "URL Error: [Errno 11001] getaddrinfo failed"
     },
     {
       "title": "Greenhouse Whitefly Control",
       "url": "http://kazvswild.com/wp-content/uploads/2015/04/greenhouse-whitefly-control.pdf",
+      "download_url": "http://kazvswild.com/wp-content/uploads/2015/04/greenhouse-whitefly-control.pdf",
       "source": "scp",
-      "error": "Wayback failed: HTTP Error 404: Not Found"
+      "error": "URL Error: [Errno 11001] getaddrinfo failed"
     },
     {
       "title": "SAS Survival Handbook",
       "url": "http://www.landsurvival.com/downloads/SAS%20Survival%20Handbook.pdf",
+      "download_url": "http://www.landsurvival.com/downloads/SAS%20Survival%20Handbook.pdf",
       "source": "scp",
-      "error": "Wayback failed: HTTP Error 404: Not Found"
+      "error": "HTTP 404: Not Found"
     },
     {
       "title": "The 1881 Household Cyclopedia",
       "url": "https://graywolfsurvival.com/wp-content/uploads/1881_Household_Cyclopedia.pdf",
+      "download_url": "https://graywolfsurvival.com/wp-content/uploads/1881_Household_Cyclopedia.pdf",
       "source": "scp",
-      "error": "<urlopen error [Errno 11002] getaddrinfo failed>"
+      "error": "URL Error: [Errno 11002] getaddrinfo failed"
     },
     {
       "title": "Canning and Preserving 1912",
       "url": "https://graywolfsurvival.com/wp-content/uploads/Canning_and_preserving_1912.pdf",
+      "download_url": "https://graywolfsurvival.com/wp-content/uploads/Canning_and_preserving_1912.pdf",
       "source": "scp",
-      "error": "<urlopen error [Errno 11002] getaddrinfo failed>"
+      "error": "URL Error: [Errno 11002] getaddrinfo failed"
     },
     {
       "title": "How To Make Black Powder",
       "url": "https://graywolfsurvival.com/wp-content/uploads/How-to-make-Black-Powder.pdf",
+      "download_url": "https://graywolfsurvival.com/wp-content/uploads/How-to-make-Black-Powder.pdf",
       "source": "scp",
-      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+      "error": "URL Error: [Errno 11002] getaddrinfo failed"
     },
     {
       "title": "Physical Security FM 3-19.30",
       "url": "https://graywolfsurvival.com/wp-content/uploads/Physical-Security-FM-3-19.30.pdf",
+      "download_url": "https://graywolfsurvival.com/wp-content/uploads/Physical-Security-FM-3-19.30.pdf",
       "source": "scp",
-      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+      "error": "URL Error: [Errno 11002] getaddrinfo failed"
     },
     {
       "title": "Preservation of Fish and Meat",
       "url": "https://graywolfsurvival.com/wp-content/uploads/Preservation_of_Fish_and_Meat_2004.pdf",
+      "download_url": "https://graywolfsurvival.com/wp-content/uploads/Preservation_of_Fish_and_Meat_2004.pdf",
       "source": "scp",
-      "error": "<urlopen error [Errno 11001] getaddrinfo failed>"
+      "error": "URL Error: [Errno 11002] getaddrinfo failed"
     },
     {
       "title": "Rural Tanning Techniques",
       "url": "https://graywolfsurvival.com/wp-content/uploads/Rural_Tanning_Techniques_No-68_1974.pdf",
+      "download_url": "https://graywolfsurvival.com/wp-content/uploads/Rural_Tanning_Techniques_No-68_1974.pdf",
       "source": "scp",
-      "error": "<urlopen error [Errno 11002] getaddrinfo failed>"
+      "error": "URL Error: [Errno 11002] getaddrinfo failed"
     },
     {
       "title": "The Handbook For Practical Farmers 1920",
       "url": "https://graywolfsurvival.com/wp-content/uploads/The_Handbook_For_Practical_Farmers_1920.pdf",
+      "download_url": "https://graywolfsurvival.com/wp-content/uploads/The_Handbook_For_Practical_Farmers_1920.pdf",
       "source": "scp",
-      "error": "<urlopen error [Errno 11002] getaddrinfo failed>"
+      "error": "URL Error: [Errno 11002] getaddrinfo failed"
     },
     {
       "title": "Tricks of Trapping",
       "url": "https://graywolfsurvival.com/wp-content/uploads/Tricks-of-Trapping.pdf",
+      "download_url": "https://graywolfsurvival.com/wp-content/uploads/Tricks-of-Trapping.pdf",
       "source": "scp",
-      "error": "<urlopen error [Errno 11002] getaddrinfo failed>"
+      "error": "URL Error: [Errno 11002] getaddrinfo failed"
     },
     {
       "title": "USMC Summer Survival Course Handbook 2005",
       "url": "https://graywolfsurvival.com/wp-content/uploads/USMC-Summer-Survival-Course-Handbook-_6_february-2005.pdf",
+      "download_url": "https://graywolfsurvival.com/wp-content/uploads/USMC-Summer-Survival-Course-Handbook-_6_february-2005.pdf",
       "source": "scp",
-      "error": "<urlopen error [Errno 11002] getaddrinfo failed>"
+      "error": "URL Error: [Errno 11002] getaddrinfo failed"
     },
     {
       "title": "Water Treatment",
       "url": "https://graywolfsurvival.com/wp-content/uploads/Water_-_Water_Treatment.pdf",
+      "download_url": "https://graywolfsurvival.com/wp-content/uploads/Water_-_Water_Treatment.pdf",
       "source": "scp",
-      "error": "<urlopen error [Errno 11002] getaddrinfo failed>"
+      "error": "URL Error: [Errno 11002] getaddrinfo failed"
     },
     {
       "title": "Army STP 21-1 Soldiers Manual Warrior Skills Level 1",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvMTZiOGFmOGYtMzdiNC00NTA1LTk2MzgtMjExNmMyYzQ4MDM2",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvMTZiOGFmOGYtMzdiNC00NTA1LTk2MzgtMjExNmMyYzQ4MDM2",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Army STP 21-24 Warrior Skills Level 2-3-4",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvNTMyOThmYTYtMTUxOC00Y2U1LTk3NGItZmY5NTE1MjU2MzJh",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvNTMyOThmYTYtMTUxOC00Y2U1LTk3NGItZmY5NTE1MjU2MzJh",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Army FM 21-76 Survival Manual",
       "url": "https://docs.google.com/file/d/0B6GE42-kvADvZTY4YjZhMmMtOWNjYy00MDI5LWFhMTItYTkwYjkzZDcwNjE5/edit?pli=1",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvZTY4YjZhMmMtOWNjYy00MDI5LWFhMTItYTkwYjkzZDcwNjE5",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Army FM 31-70 Basic Cold Weather Manual",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvNGU4ODU0ZGQtMzNjNi00Mjk3LTljNTMtOWFjYzA0OTkzNzgz",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvNGU4ODU0ZGQtMzNjNi00Mjk3LTljNTMtOWFjYzA0OTkzNzgz",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Army FM 20-3 Camouflage Concealment and Decoys",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvMGRhYjQ3MzEtZDBjYi00YWYxLWE1YWUtM2FkMTBjYjQ2YzRj",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvMGRhYjQ3MzEtZDBjYi00YWYxLWE1YWUtM2FkMTBjYjQ2YzRj",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Army FM 5-103 Survivability",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvYWMxYWI1ZjQtNDc3MS00OTA0LThiNzUtNmQxN2JjZmQxODAz",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvYWMxYWI1ZjQtNDc3MS00OTA0LThiNzUtNmQxN2JjZmQxODAz",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Army FM 3-06 Urban Operations",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvN2UwOTQwYWQtNTYwZi00ZjVlLWE5MmMtODAyOTdhYTIyODRl",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvN2UwOTQwYWQtNTYwZi00ZjVlLWE5MmMtODAyOTdhYTIyODRl",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Navy SEAL Physical Fitness Guide",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KMGI5YjAyM2UtNDhhOS00ODNhLWJjZWUtYTIxYjkxN2MyZTEz",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KMGI5YjAyM2UtNDhhOS00ODNhLWJjZWUtYTIxYjkxN2MyZTEz",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "US Marines Close Quarters Combat Manual",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KZDgzNjNmOWUtM2I2Zi00NWZmLWI3NmMtNzFkZDVmZjYwNWU2",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KZDgzNjNmOWUtM2I2Zi00NWZmLWI3NmMtNzFkZDVmZjYwNWU2",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "US Marine Corps Hand to Hand Combat",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KZmE5MWI5ZjMtNmZmYy00ZmIxLWFlNjUtY2RlNmJhNjQ3ZTYz",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KZmE5MWI5ZjMtNmZmYy00ZmIxLWFlNjUtY2RlNmJhNjQ3ZTYz",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "US Army Combatives FM 3-25.150",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KYWE1Mzg0NDUtZmJiNS00NTEwLWJjZjAtMWRkODg1MjZhNDlh",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KYWE1Mzg0NDUtZmJiNS00NTEwLWJjZjAtMWRkODg1MjZhNDlh",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Pressure Points Military Hand to Hand Combat Guide",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KOWU0ZDA1YmEtMzYwYi00NzJhLThmNTUtNzM4ODJjYTdhZDIx",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KOWU0ZDA1YmEtMzYwYi00NzJhLThmNTUtNzM4ODJjYTdhZDIx",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Practical Unarmed Combat by Moshe Feldenkrais",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KMWY2ZDc4MmYtZDk5MC00YmM3LTgyODUtYTRmMWJjNWI1YjQ1",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KMWY2ZDc4MmYtZDk5MC00YmM3LTgyODUtYTRmMWJjNWI1YjQ1",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Krav Maga Pressure Points Guide",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KZmRiNGZlMjEtOTI3ZC00MTM1LWE5ZWItN2UzMDA3YTkzODA2",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KZmRiNGZlMjEtOTI3ZC00MTM1LWE5ZWItN2UzMDA3YTkzODA2",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Aikido Revised",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KMzUxYjhmNWUtOTAxOC00OWVlLWJmMjMtMzRjZWJjOGZiM2Rh",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KMzUxYjhmNWUtOTAxOC00OWVlLWJmMjMtMzRjZWJjOGZiM2Rh",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Combat Conditioning Manual JiuJitsu",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KNGVjOTdjYTctNzNkYi00ZTdlLWE3OGUtZTVlMzNiNDllYWYy",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KNGVjOTdjYTctNzNkYi00ZTdlLWE3OGUtZTVlMzNiNDllYWYy",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Marine Martial Arts Training",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KNzFmMjIzMDEtMDIyNi00NTBhLTk3NDMtOGYwODIxMDRlYmUy",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KNzFmMjIzMDEtMDIyNi00NTBhLTk3NDMtOGYwODIxMDRlYmUy",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Combat Survival Evasion",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvOTk3OTlkNDgtODZkZi00NmQzLWFjMGItMGJmNTdjODYzOTdk",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvOTk3OTlkNDgtODZkZi00NmQzLWFjMGItMGJmNTdjODYzOTdk",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "USMC Kill or Get Killed",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KM2Q2ZWQ3YmQtMzZhYS00ZWVhLTliYTItNDBiMGY2MzYxNzNm",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KM2Q2ZWQ3YmQtMzZhYS00ZWVhLTliYTItNDBiMGY2MzYxNzNm",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Surviving Terrorism",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvZDIzM2MxOWUtMDY5NS00OTE2LWFlNGYtOWJjMWQzMmEyMTlj",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvZDIzM2MxOWUtMDY5NS00OTE2LWFlNGYtOWJjMWQzMmEyMTlj",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Marines Individual Terrorism Survival",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvMjZiZThiNWQtOTdjOC00ZmMwLTk4YzAtMjY2ODFkNWMwYWQz",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvMjZiZThiNWQtOTdjOC00ZmMwLTk4YzAtMjY2ODFkNWMwYWQz",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Army FM 5-428 Concrete and Masonry",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvMDczYTY3YmUtNWY0ZC00ZTJiLTk2Y2QtMjBmNWZiZjU4OWI3",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvMDczYTY3YmUtNWY0ZC00ZTJiLTk2Y2QtMjBmNWZiZjU4OWI3",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "HTTP 404: Not Found"
     },
     {
       "title": "Army FM 5-426 Carpentry",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvMDM0ZDA4YzEtM2I0My00NjlhLWE1YTItMjdlYmNjN2YwZjc1",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvMDM0ZDA4YzEtM2I0My00NjlhLWE1YTItMjdlYmNjN2YwZjc1",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "How to Find Your Way - US Army",
       "url": "https://docs.google.com/file/d/0B6GE42-kvADvZWE4M2NjN2EtYjJkMC00YTUyLWE0M2UtZTNiOGFlNzc1Njc1/edit?pli=1",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvZWE4M2NjN2EtYjJkMC00YTUyLWE0M2UtZTNiOGFlNzc1Njc1",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "HTTP 404: Not Found"
     },
     {
       "title": "Urban Preparation Kit Part I On-Body Kit",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvYzYyNTg4M2ItYzk4Zi00MzU2LWFlNjEtZmNiMjU4ZGE0MWVi",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvYzYyNTg4M2ItYzk4Zi00MzU2LWFlNjEtZmNiMjU4ZGE0MWVi",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Western Australia Police Aids To Survival",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvYTUzYjdkYzQtMGRlYS00YmEzLWFhYzYtNTJiOTdhN2EwY2Yw",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvYTUzYjdkYzQtMGRlYS00YmEzLWFhYzYtNTJiOTdhN2EwY2Yw",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "USMC Winter Survival Course",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvOWM5OTBiMzgtNzE4Ny00ZTgzLTgzMmMtM2E5ZWY1YzVlZmQw",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvOWM5OTBiMzgtNzE4Ny00ZTgzLTgzMmMtM2E5ZWY1YzVlZmQw",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "USMC Summer Survival Course",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvMmIxZGVmMDMtYTRiZC00MjRiLTljNzgtYjA1YTNiMjk3Mzhh",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvMmIxZGVmMDMtYTRiZC00MjRiLTljNzgtYjA1YTNiMjk3Mzhh",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "HTTP 404: Not Found"
     },
     {
       "title": "How to Build a Debris Hut",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvOWE3NWI5MTMtNWViMi00M2UyLWIxY2EtZGE0OTY4MjdkNTYy",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvOWE3NWI5MTMtNWViMi00M2UyLWIxY2EtZGE0OTY4MjdkNTYy",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Shelters Shacks Shanties - Daniel Carter Beard",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KZmI0YjA2YzUtZmViNS00YzVmLThkMzktNmJlMzk1YTFiZTc1",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KZmI0YjA2YzUtZmViNS00YzVmLThkMzktNmJlMzk1YTFiZTc1",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Edible Wild Plants",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvMjJhNmM4ODEtNmU3Yy00OTJkLWFkMTAtZTU1NzQ2MmE4ZmI1",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvMjJhNmM4ODEtNmU3Yy00OTJkLWFkMTAtZTU1NzQ2MmE4ZmI1",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Common Edible Mushrooms",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvMDZjZTA1NjAtZTQ2Ni00OWU2LTk2NDItODVlOGY5NzM5YTU2",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvMDZjZTA1NjAtZTQ2Ni00OWU2LTk2NDItODVlOGY5NzM5YTU2",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "WHO Monographs on Selected Medicinal Plants Vol 3",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvODhhMTdkNGMtNjEyNy00NDNlLTg2M2MtMzA2ODhhYzNjNGFm",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvODhhMTdkNGMtNjEyNy00NDNlLTg2M2MtMzA2ODhhYzNjNGFm",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "WHO Monographs on Selected Medicinal Plants Vol 2",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvOTk4MzRkYWYtZTNhNi00OTg0LThlMGYtN2IxYWVmODE5MzY3",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvOTk4MzRkYWYtZTNhNi00OTg0LThlMGYtN2IxYWVmODE5MzY3",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "WHO Monographs on Selected Medicinal Plants Vol 1",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvY2RjMDk3ODMtZDFjYi00YmM3LWFkOGMtMTgyODExMmJmYjk1",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvY2RjMDk3ODMtZDFjYi00YmM3LWFkOGMtMTgyODExMmJmYjk1",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Useful Wild Plants of the United States and Canada",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvZjY2NTcyNzktOTIyMy00Y2Y1LTg0MzYtNzUyZGZhMWQ4MTI4",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvZjY2NTcyNzktOTIyMy00Y2Y1LTg0MzYtNzUyZGZhMWQ4MTI4",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "HTTP 404: Not Found"
     },
     {
       "title": "How to Make Herbal Preparations",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvZDVkMjQ4MGMtZmJlZC00OGE1LWFlYzItMmYyNjY5NjEwZDA4",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvZDVkMjQ4MGMtZmJlZC00OGE1LWFlYzItMmYyNjY5NjEwZDA4",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Survival Edible Medicinal Plants",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvMjkyY2MwMzQtMDk5ZC00ZjFjLTg1YzQtZjcyZjJmYzY0OTBm",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvMjkyY2MwMzQtMDk5ZC00ZjFjLTg1YzQtZjcyZjJmYzY0OTBm",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Medicinal Plants in Folk Tradition",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvNGNmZGNlZmItMjA1MS00MmU4LWE4YjUtMWZhNjY0M2E3NDNj",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvNGNmZGNlZmItMjA1MS00MmU4LWE4YjUtMWZhNjY0M2E3NDNj",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Herbal PDR",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvZTRkZmE5NTctM2JiNC00NTExLTgxMWYtYWE0MDg0MzQyYTcz",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvZTRkZmE5NTctM2JiNC00NTExLTgxMWYtYWE0MDg0MzQyYTcz",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Healing Pets With Alternative Medicine",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvNDc2M2Y3ZGMtOGVhZS00OTEwLWJkZDYtY2NjM2I1YTU5MDY0",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvNDc2M2Y3ZGMtOGVhZS00OTEwLWJkZDYtY2NjM2I1YTU5MDY0",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Edible and Medicinal Plants",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvNmE4MDBmMzAtMDU3NC00NWZiLThhY2QtMmYwNWRmNjZkNWQ0",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvNmE4MDBmMzAtMDU3NC00NWZiLThhY2QtMmYwNWRmNjZkNWQ0",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Crow Indian Recipes and Herbal Medicines",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvNDIxNjM2OTgtYzBmYS00ZjI3LWE0MTItODExM2ZkNTk1NmQ2",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvNDIxNjM2OTgtYzBmYS00ZjI3LWE0MTItODExM2ZkNTk1NmQ2",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "HTTP 404: Not Found"
     },
     {
       "title": "Anticancer Therapeutics",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvODU0MTMwNGMtN2NhOS00ZjUyLWFlNjEtMmMwMzNmNmQwZmVj",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvODU0MTMwNGMtN2NhOS00ZjUyLWFlNjEtMmMwMzNmNmQwZmVj",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "A Complete Handbook of Nature Cure",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvYjEyOTQxM2EtZjBkMi00Njg1LWFjYWEtMmU5ODg0MjRhYzEz",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvYjEyOTQxM2EtZjBkMi00Njg1LWFjYWEtMmU5ODg0MjRhYzEz",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "WHO Monographs on Selected Medicinal Plants Vol 4",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvYzI0YzgyNGMtNGIzNS00MjlkLTg5MDAtNWVmZDY4NmU3MzM4",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvYzI0YzgyNGMtNGIzNS00MjlkLTg5MDAtNWVmZDY4NmU3MzM4",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Traps and Snares",
       "url": "https://docs.google.com/file/d/0B6GE42-kvADvMTY3NmZhNGUtN2RmOS00MzA4LThiNTctOGU1MTllODM0Zjlh/edit?pli=1",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvMTY3NmZhNGUtN2RmOS00MzA4LThiNTctOGU1MTllODM0Zjlh",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Camp Life in the Woods and Tricks of Trapping",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvNWRlMjMzODAtN2ZhZS00MGZlLWI1MTgtODY4MTBiZDg2ZDhi",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvNWRlMjMzODAtN2ZhZS00MGZlLWI1MTgtODY4MTBiZDg2ZDhi",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Alpine Living for SAR",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvMjZlODlhMDAtYTM3MS00OWFhLTg3ZWMtZWQ1YWQzNTZmYjU1",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvMjZlODlhMDAtYTM3MS00OWFhLTg3ZWMtZWQ1YWQzNTZmYjU1",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Cold Weather Survival Rev 2",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvOWQyNjhhZTItMGMzYS00ZjgyLTliYzgtN2IxYjVlYWE3M2Vi",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvOWQyNjhhZTItMGMzYS00ZjgyLTliYzgtN2IxYjVlYWE3M2Vi",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Cold Weather Survival",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvODM5ZjE1YTAtODkwNC00NTcxLTliNDAtMWRlZmU1MWNjZGJl",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvODM5ZjE1YTAtODkwNC00NTcxLTliNDAtMWRlZmU1MWNjZGJl",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Survival In Cold Weather Areas",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvYjQ1MjJmODgtZjVmZS00YTQ4LTk4NGItM2JkZjAwMmYxZDVi",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvYjQ1MjJmODgtZjVmZS00YTQ4LTk4NGItM2JkZjAwMmYxZDVi",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Wilderness Survival Skills",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvMjAwNmY0OTctNDA4ZS00ZjI2LWE0MjgtZjhiMTc5NzU1ODFi",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvMjAwNmY0OTctNDA4ZS00ZjI2LWE0MjgtZjhiMTc5NzU1ODFi",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Survival Wilderness Survival",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvMGUyOTg4YjctYjM0OC00N2NiLTg0NTAtYWU2OGIzNjI2ZmRl",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvMGUyOTg4YjctYjM0OC00N2NiLTg0NTAtYWU2OGIzNjI2ZmRl",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Adventurer Woodstravel Module",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvYjhjMDg5Y2YtMGQ0ZS00NjNjLWExYWItNTE4NmM1ZjNhNDZj",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvYjhjMDg5Y2YtMGQ0ZS00NjNjLWExYWItNTE4NmM1ZjNhNDZj",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "HTTP 404: Not Found"
     },
     {
       "title": "Australian Bushcraft",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KN2Q5N2I0NTQtZjE1OS00ZTRiLWIxNDAtMzkxMzU0ODYwMmRk",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KN2Q5N2I0NTQtZjE1OS00ZTRiLWIxNDAtMzkxMzU0ODYwMmRk",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Flintknapping",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KNTc3MTcxMzQtZjQ0MS00ODc2LWEzNDUtMzlmMWI5ZDM1NDMy",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KNTc3MTcxMzQtZjQ0MS00ODc2LWEzNDUtMzlmMWI5ZDM1NDMy",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "The Book of Camplore and Woodcraft - Dan Beard",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KYTFlZjA5MjEtYTU1OS00ZTMwLWI2Y2UtOTNhM2EyMGY2Mjcz",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KYTFlZjA5MjEtYTU1OS00ZTMwLWI2Y2UtOTNhM2EyMGY2Mjcz",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Bushcraft Scouting Woodlore Notes",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KMGMyNjFhMDgtMzlkNC00NDNlLWJiZmMtZGU2ODhkODY0MjZl",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KMGMyNjFhMDgtMzlkNC00NDNlLWJiZmMtZGU2ODhkODY0MjZl",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Woodsmanship",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KOGI2MzA1NTAtMGViMC00ODA0LWFlNTgtOTNjODdmNTg4YTNk",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KOGI2MzA1NTAtMGViMC00ODA0LWFlNTgtOTNjODdmNTg4YTNk",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Vegetable Garden Encyclopedia",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KYjY5MzA0MzctM2UxOS00YmQwLTliNWMtNGFlYzIwYmZmNzQw",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KYjY5MzA0MzctM2UxOS00YmQwLTliNWMtNGFlYzIwYmZmNzQw",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Preserving Game Meats",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvMWIyMjUwOTEtMjgyZS00NGZiLTkyMDctNjY1ZjIxNGM3NGM5",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvMWIyMjUwOTEtMjgyZS00NGZiLTkyMDctNjY1ZjIxNGM3NGM5",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Guide 5 Preparing and Canning Poultry Red Meats and Seafood",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KN2IzZjRmNjAtZmU5Mi00M2NiLWE3ZTktYTE3NzQyY2Y5NTQ1",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KN2IzZjRmNjAtZmU5Mi00M2NiLWE3ZTktYTE3NzQyY2Y5NTQ1",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "The Jerky Chef",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KOTJlNjM5ZDItY2ZlOS00ZmY0LTlkOTYtNDIxYTA0YzUzNjc0",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KOTJlNjM5ZDItY2ZlOS00ZmY0LTlkOTYtNDIxYTA0YzUzNjc0",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Solar Dehydrator",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KOThkZTU4NjctMTJhMi00NGE3LTlmN2QtYmZlYzQ4YTkwZTkw",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KOThkZTU4NjctMTJhMi00NGE3LTlmN2QtYmZlYzQ4YTkwZTkw",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Small Scale Food Drying Technologies",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KYzRiYjRhYzUtMTcyMC00NTI5LWJlOWUtZTk5MDcwYmQwNzlm",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KYzRiYjRhYzUtMTcyMC00NTI5LWJlOWUtZTk5MDcwYmQwNzlm",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Preserving Food Drying Fruits And Vegetables",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KNzNkNzU0NzAtZWU3NC00NTVlLThhNTMtYTcxYjIzMDA2MTli",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KNzNkNzU0NzAtZWU3NC00NTVlLThhNTMtYTcxYjIzMDA2MTli",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Guide 6 Preparing and Canning Fermented Foods and Pickled Vegetables",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KODViZmYwZDEtOWE0OC00ZGJjLTgxZTItODMyMzllNGYwMzk4",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KODViZmYwZDEtOWE0OC00ZGJjLTgxZTItODMyMzllNGYwMzk4",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "1999 Dutch Oven Cookbook",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KYWRkNDgyNjYtZmU1NS00NGRhLTkyZjEtNmY0ODdkZDk4OWU4",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KYWRkNDgyNjYtZmU1NS00NGRhLTkyZjEtNmY0ODdkZDk4OWU4",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Boy Scout Cookbook",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KMjMwMmJhNTUtYTYzZC00MzA3LWE3MTYtMWNmZWQ0ZjZlNGU3",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KMjMwMmJhNTUtYTYzZC00MzA3LWE3MTYtMWNmZWQ0ZjZlNGU3",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "HTTP 404: Not Found"
     },
     {
       "title": "The Back Country Recipe Book",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KOTE3M2U0ZDYtZmQ3NC00NWI4LThiZWItMjZhMzU0MzRiZWY2",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KOTE3M2U0ZDYtZmQ3NC00NWI4LThiZWItMjZhMzU0MzRiZWY2",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Native Berry Recipes",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KMmM5OTk4NzQtYzY4OC00OTFlLWJhOGYtOThmMDEwMzk2M2Mz",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KMmM5OTk4NzQtYzY4OC00OTFlLWJhOGYtOThmMDEwMzk2M2Mz",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "The Baby Food",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KZDNhMmExZmUtNmI3YS00YjBiLWIyNTktOWRhMGExZmYzNTU0",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KZDNhMmExZmUtNmI3YS00YjBiLWIyNTktOWRhMGExZmYzNTU0",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Bushcraft Leather Work",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KZjdmNDhkNDMtNTI4MC00ZWM3LWE1MTMtZGE3MzkyNmFmMjg2",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KZjdmNDhkNDMtNTI4MC00ZWM3LWE1MTMtZGE3MzkyNmFmMjg2",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "HTTP 404: Not Found"
     },
     {
       "title": "Foxfire One",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KODJlMTU3MTItY2MxNS00MTZiLWEyODEtMTU5YWQwZjZmZDFi",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KODJlMTU3MTItY2MxNS00MTZiLWEyODEtMTU5YWQwZjZmZDFi",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Foxfire Two",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KOTU2MjI3NTAtYTNjYS00ZDZhLWI0ZDMtZDNjNjMwMzRiNDM1",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KOTU2MjI3NTAtYTNjYS00ZDZhLWI0ZDMtZDNjNjMwMzRiNDM1",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Foxfire Three",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KNzJjOWYxMDUtNjg1ZC00YzRmLWE0NTItYmMzMThhMjlhZmM2",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KNzJjOWYxMDUtNjg1ZC00YzRmLWE0NTItYmMzMThhMjlhZmM2",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "The Unofficial MacGyver How-To Handbook",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KMzZhYTE0OTMtNTdjNy00ZWNkLWI2MzQtNDIwMDJhZWZkYTMz",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KMzZhYTE0OTMtNTdjNy00ZWNkLWI2MzQtNDIwMDJhZWZkYTMz",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "The Complete Guide to Home Carpentry",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KZmUzNzJmZWYtZTEyZC00YmNhLWI3YjEtZjEyN2VmMTMyMTIw",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KZmUzNzJmZWYtZTEyZC00YmNhLWI3YjEtZjEyN2VmMTMyMTIw",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Metal Forming",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KY2YzNDNhOTUtMDYzMC00OGUwLTlkNTEtNTdhZTliZWJhZWRm",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KY2YzNDNhOTUtMDYzMC00OGUwLTlkNTEtNTdhZTliZWJhZWRm",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "HHS Pandemic Influenza Plan",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvZmVkYTM3MTQtOWVmMi00YWNjLWE2MjktYTQ0NDAxMzZlMWQ1",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvZmVkYTM3MTQtOWVmMi00YWNjLWE2MjktYTQ0NDAxMzZlMWQ1",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Personal Wilderness Medical Kit",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvMGE0Nzk5ZjktOWU3MC00ZTkxLWIwZDgtNTk0Yzk0YzVmNzky",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvMGE0Nzk5ZjktOWU3MC00ZTkxLWIwZDgtNTk0Yzk0YzVmNzky",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Wound Closure Manual",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvMmM2ZDA0Y2ItM2NiYS00YzVjLTgyYTAtYWExMmUzNjczZDc1",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvMmM2ZDA0Y2ItM2NiYS00YzVjLTgyYTAtYWExMmUzNjczZDc1",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Full First Aid Manual FM 21-11",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvYjM2MTVhNjQtMjYwNS00YmU2LTk5MTQtYjRmNWI3NDA4YTRl",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvYjM2MTVhNjQtMjYwNS00YmU2LTk5MTQtYjRmNWI3NDA4YTRl",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Emergency War Surgery",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvNzk4M2ZmNWItMzM1Yi00NDNkLWI2MjItNDQxOGQyNTBlMTNm",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvNzk4M2ZmNWItMzM1Yi00NDNkLWI2MjItNDQxOGQyNTBlMTNm",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "USMC Wilderness Medicine Course",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvZDhmYjA5YzQtOGRhNi00MDkyLTkxZWMtYWYwYjM1YjA3NTc4",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvZDhmYjA5YzQtOGRhNi00MDkyLTkxZWMtYWYwYjM1YjA3NTc4",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Survival Medicine",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvMThhN2YxMTctNDU4ZS00MGMzLTk2NzgtNmE5YzI5Yzk0ZTky",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvMThhN2YxMTctNDU4ZS00MGMzLTk2NzgtNmE5YzI5Yzk0ZTky",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Radio Monitoring How-to Guide",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KZDU5NWNiMGUtZTUxYy00OTI2LWEyMTAtOWFjYTk4OWQxM2Nm",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KZDU5NWNiMGUtZTUxYy00OTI2LWEyMTAtOWFjYTk4OWQxM2Nm",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Practical Guide to Free Energy Devices",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KNzlmZmFhZGEtOWZkYy00NDJlLWI5ZDktM2JlYjhmOGQwMmE5",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KNzlmZmFhZGEtOWZkYy00NDJlLWI5ZDktM2JlYjhmOGQwMmE5",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Survival Water Purification",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvODk1YThhZDUtNzEyNC00MDA4LThiNTAtZGY1NDQyNGI2M2Q2",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvODk1YThhZDUtNzEyNC00MDA4LThiNTAtZGY1NDQyNGI2M2Q2",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "HTTP 404: Not Found"
     },
     {
       "title": "Knots - Andrew Adamides",
       "url": "https://docs.google.com/file/d/0B6GE42-kvADvNTk2MDU0MzgtODE0My00ODVjLWJhMTgtOGMyMzhiOWFmZjk1/edit?pli=1",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvNTk2MDU0MzgtODE0My00ODVjLWJhMTgtOGMyMzhiOWFmZjk1",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Sea Scout Knots",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvNmE3ODUxNTQtOTAyYi00YjE5LThiYTUtNjkxZTY4Mjk1ZmIz",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvNmE3ODUxNTQtOTAyYi00YjE5LThiYTUtNjkxZTY4Mjk1ZmIz",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Ropes Knots Ladders Lashings Anchorages",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvZjkyOTNlOTItNDUyMi00YjNhLWI3NjgtNzhmYzc0NjZlNzQy",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvZjkyOTNlOTItNDUyMi00YjNhLWI3NjgtNzhmYzc0NjZlNzQy",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Knots Splices Attachments",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvZmUxMjUxZDUtODEyZC00OTk5LTlhYTktMDkwNmRiZmM1ZjY4",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvZmUxMjUxZDUtODEyZC00OTk5LTlhYTktMDkwNmRiZmM1ZjY4",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Knots Splices and Rope Work",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvYjhiNzkxYjYtZDZlNy00NWIxLWIxMjMtMmJhNzM0ZDhkMTcx",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvYjhiNzkxYjYtZDZlNy00NWIxLWIxMjMtMmJhNzM0ZDhkMTcx",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Knots for Mountaineering Camping Climbing Utility Rescue",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvNjJhMTA4ZGQtYjk3MC00YTUxLWEwOGItMDAxMjYzMTE4NDI5",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvNjJhMTA4ZGQtYjk3MC00YTUxLWEwOGItMDAxMjYzMTE4NDI5",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Knots by Andrew Adamides",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvNTk2MDU0MzgtODE0My00ODVjLWJhMTgtOGMyMzhiOWFmZjk1",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvNTk2MDU0MzgtODE0My00ODVjLWJhMTgtOGMyMzhiOWFmZjk1",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Pioneering Knots and Lashings",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvOTBlNDExN2UtODM3Yy00YTg2LWI2NDEtYjFiNDViYjQ4OGQx",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvOTBlNDExN2UtODM3Yy00YTg2LWI2NDEtYjFiNDViYjQ4OGQx",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "KNOTS",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvZGY3MDhkMzAtOGQxMC00M2I2LWE1NzItY2Y4NmFjZTFiMmIw",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvZGY3MDhkMzAtOGQxMC00M2I2LWE1NzItY2Y4NmFjZTFiMmIw",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Handbook of Knots and Splices",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvNjZmMDY0NGItZThhZS00OTcyLWJlYTktMjIxYjg2ZDc2NTQ4",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvNjZmMDY0NGItZThhZS00OTcyLWJlYTktMjIxYjg2ZDc2NTQ4",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Fishing Knots Tying How To Tie A Knot",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvMzIzNGQ1MGEtMWQxYi00MWE2LWJiNGEtNTMzOWIwN2I2NDNi",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvMzIzNGQ1MGEtMWQxYi00MWE2LWJiNGEtNTMzOWIwN2I2NDNi",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Essential Fishing Knots",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvMDMyMmNiMzctZGIyMC00Yjk5LThmMGUtOTRlOGRjNTBhODQ1",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvMDMyMmNiMzctZGIyMC00Yjk5LThmMGUtOTRlOGRjNTBhODQ1",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Encyclopedia of Knots",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvMzJiZmI2NTktMzM5Ni00MzU4LTg5M2ItMDJiMGI1MmRlNDk4",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvMzJiZmI2NTktMzM5Ni00MzU4LTg5M2ItMDJiMGI1MmRlNDk4",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Basic Book of Knots and Lashings",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvZDMzZTlmNjAtMjVmMS00NGNkLWI5YTEtMWM1ZTgxYTY3NGZk",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvZDMzZTlmNjAtMjVmMS00NGNkLWI5YTEtMWM1ZTgxYTY3NGZk",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "What Knot - Useful Knots for Scouting and Climbing",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvMmI3MWM5MWQtNDI1Zi00YjJhLWEwODItZDRkNWNlZWQ0ZGY5",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvMmI3MWM5MWQtNDI1Zi00YjJhLWEwODItZDRkNWNlZWQ0ZGY5",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Tying Farm Knots",
       "url": "https://docs.google.com/open?id=0B6GE42-kvADvYzNmOGM5OTEtMTRmNy00MTc2LThiNDAtZmExYmE1YWMzMjZj",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6GE42-kvADvYzNmOGM5OTEtMTRmNy00MTc2LThiNDAtZmExYmE1YWMzMjZj",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Steal This Book",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KMTcyMjQ0NzgtNWQ5YS00YzEzLThmZWUtZTQ0Mjk5YzRmZGIy",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KMTcyMjQ0NzgtNWQ5YS00YzEzLThmZWUtZTQ0Mjk5YzRmZGIy",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     },
     {
       "title": "Secret Hiding Places",
       "url": "https://docs.google.com/open?id=0B6Swa8Pwy-0KOTMwN2EyNTQtNTAyZC00YTNiLWFkYzUtODg2ZWQyMjUwNThi",
+      "download_url": "https://docs.google.com/uc?export=download&id=0B6Swa8Pwy-0KOTMwN2EyNTQtNTAyZC00YTNiLWFkYzUtODg2ZWQyMjUwNThi",
       "source": "scp-gdocs",
-      "error": "All Google Drive download strategies failed"
+      "error": "Got HTML instead of PDF (content-type: text/html; charset=utf-8)"
     }
   ],
   "duplicate_map": {
@@ -1734,7 +2397,6 @@
     "Nuclear-War-Survival-Skills.pdf": "Nuclear-War-Survival-Skills.pdf",
     "Where-There-is-No-Dentist.pdf": "Where-There-is-No-Dentist.pdf"
   },
-  "total_size_bytes": 428169237,
-  "total_size_mb": 408.33,
-  "retry_date": "2026-02-07T09:16:42.340500"
+  "total_size_bytes": 520593967,
+  "total_size_mb": 496.48
 }

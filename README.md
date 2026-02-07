@@ -6,27 +6,27 @@ Curated offline PDF survival resource library for [Project NOMAD](https://github
 
 | Metric | Value |
 |--------|-------|
-| Total PDFs | 109 |
-| Total Size | ~402 MB |
-| Essential Tier | 32 |
-| Standard Tier | 76 |
-| Comprehensive Tier | 1 |
+| Total PDFs | 155 |
+| Total Size | ~490 MB |
+| Essential Tier | 37 |
+| Standard Tier | 116 |
+| Comprehensive Tier | 2 |
 | Categories | 12 |
 
 ## Categories
 
 | Category | Count | Description |
 |----------|-------|-------------|
-| Preparedness & Planning | 25 | Emergency planning, checklists, bug-out preparation |
-| Survival | 23 | Wilderness survival, bushcraft, general survival skills |
-| Military Manuals | 14 | Military field manuals, tactics, fieldcraft |
+| Education & Reference | 31 | General knowledge, homesteading, and educational materials |
+| Preparedness & Planning | 27 | Emergency planning, checklists, bug-out preparation |
+| Food & Agriculture | 20 | Food preservation, foraging, trapping, agriculture |
+| Medicine & First Aid | 19 | Medical knowledge, first aid, field medicine |
+| Survival | 17 | Wilderness survival, bushcraft, general survival skills |
+| Military Manuals | 15 | Military field manuals, tactics, fieldcraft |
 | Nuclear / CBRN | 9 | Nuclear, chemical, biological threat preparation |
-| Food & Agriculture | 9 | Food preservation, foraging, trapping, agriculture |
-| Medicine & First Aid | 8 | Medical knowledge, first aid, field medicine |
 | Shelter & Construction | 6 | Building shelters, fortifications, emergency structures |
-| Education & Reference | 6 | General knowledge and educational materials |
-| DIY & Repair | 3 | Construction, repair, practical skills |
-| Navigation & Communication | 3 | Map reading, compass use, radio communication |
+| DIY & Repair | 6 | Construction, repair, practical skills |
+| Navigation & Communication | 2 | Map reading, compass use, radio communication |
 | Water & Sanitation | 2 | Water purification, hygiene, sanitation |
 | Quick Reference | 1 | Checklists, charts, and quick-reference cards |
 
@@ -49,16 +49,16 @@ nomad-survival-library/
 │   ├── download_manifest.json   # Download tracking and hash dedup records
 │   └── download_log.txt         # Download session log
 ├── pdfs/
-│   ├── survival/                # 23 PDFs
-│   ├── medicine/                # 8 PDFs
-│   ├── preparedness/            # 25 PDFs
-│   ├── military/                # 14 PDFs
+│   ├── education/               # 31 PDFs
+│   ├── preparedness/            # 27 PDFs
+│   ├── food-agriculture/        # 20 PDFs
+│   ├── medicine/                # 19 PDFs
+│   ├── survival/                # 17 PDFs
+│   ├── military/                # 15 PDFs
 │   ├── nuclear-cbrn/            # 9 PDFs
-│   ├── food-agriculture/        # 9 PDFs
 │   ├── shelter-construction/    # 6 PDFs
-│   ├── education/               # 6 PDFs
-│   ├── diy-repair/              # 3 PDFs
-│   ├── navigation/              # 3 PDFs
+│   ├── diy-repair/              # 6 PDFs
+│   ├── navigation/              # 2 PDFs
 │   ├── water-sanitation/        # 2 PDFs
 │   └── reference/               # 1 PDF
 └── scripts/
@@ -116,6 +116,7 @@ The catalog is designed for integration with Project NOMAD's Content Explorer. P
 PDFs sourced from freely available, public domain, and government publications:
 
 - [TruePrepper](https://trueprepper.com/survival-pdfs-downloads/) — 63 PDFs (100% success rate)
+- [Archive.org](https://archive.org/details/homesteading-survival-manuals) — 46 PDFs from the Homesteading & Survival Manuals collection
 - [Seasoned Citizen Prepper](https://seasonedcitizenprepper.com/preparedness-downloads/) — 31 of 66 direct PDFs + ~110 legacy Google Docs links (mostly dead)
 - [InfoBooks.org](https://www.infobooks.org/free-pdf-books/self-improvement/survival/) — 16 PDFs (blocked automated download)
 - Wayback Machine — Used to recover some PDFs from defunct domains
