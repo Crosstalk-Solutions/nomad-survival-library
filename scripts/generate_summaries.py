@@ -12,6 +12,17 @@ from PyPDF2 import PdfReader
 BASE_DIR = Path(__file__).parent.parent
 CATALOG_FILE = BASE_DIR / "catalog" / "catalog.json"
 
+# Political/conspiracy content detected in PDF text triggers a flag for manual review.
+# These are checked against extracted text (not just title) to catch subtle cases.
+POLITICAL_TEXT_KEYWORDS = [
+    "new world order", "deep state", "globalist agenda", "illuminati",
+    "shadow government", "one world government", "sovereign citizen",
+    "government conspiracy", "wake up sheeple", "false flag",
+    "crisis actor", "truth movement", "fema camp",
+    "depopulation agenda", "chemtrail", "great replacement",
+    "martial law takeover", "agenda 21 conspiracy",
+]
+
 
 def extract_text(pdf_path, max_pages=5):
     """Extract text from the first N pages of a PDF."""
@@ -92,6 +103,19 @@ def generate_summary(title, text, num_pages, category, size_bytes):
     return f"{title}. {base} providing guidance on {category.replace('-', ' ')} topics.{topics_str}{pages_str}"
 
 
+def check_political_text(text):
+    """Scan extracted PDF text for overtly political/conspiracy content.
+    Returns list of matched keywords, or empty list if clean."""
+    if not text:
+        return []
+    text_lower = text.lower()
+    matches = []
+    for keyword in POLITICAL_TEXT_KEYWORDS:
+        if keyword in text_lower:
+            matches.append(keyword)
+    return matches
+
+
 def refine_category(title, text, current_category):
     """Refine category based on actual content."""
     text_lower = (text or "").lower()
@@ -148,6 +172,7 @@ def main():
 
     updated = 0
     errors = 0
+    political_flags = []
 
     for i, item in enumerate(catalog["items"], 1):
         title = item["title"]
@@ -165,6 +190,16 @@ def main():
 
         # Extract text
         text, num_pages = extract_text(pdf_path)
+
+        # Political content check on extracted text
+        political_matches = check_political_text(text)
+        if political_matches:
+            political_flags.append((title, political_matches))
+            item["relevance"] = "low"
+            item["political_flag"] = True
+            print(f"  ** POLITICAL CONTENT FLAGGED: {title}")
+            print(f"     Matched: {', '.join(political_matches)}")
+            print(f"     -> Set to low relevance. Manual review recommended.")
 
         # Update page count
         item["pages"] = num_pages
@@ -207,6 +242,11 @@ def main():
     print(f"SUMMARY GENERATION COMPLETE")
     print(f"  Updated:  {updated}")
     print(f"  Errors:   {errors}")
+    if political_flags:
+        print(f"\n  POLITICAL CONTENT FLAGGED: {len(political_flags)}")
+        print(f"  These items were set to low relevance and need manual review:")
+        for title, matches in political_flags:
+            print(f"    - {title} (matched: {', '.join(matches)})")
     print(f"\n  By Tier:")
     for tier, count in sorted(tc.items()):
         print(f"    {tier:>15}: {count}")

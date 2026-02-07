@@ -6,10 +6,10 @@ Curated offline PDF survival resource library for [Project NOMAD](https://github
 
 | Metric | Value |
 |--------|-------|
-| Total PDFs | 155 |
-| Total Size | ~490 MB |
+| Total PDFs | 154 |
+| Total Size | ~489 MB |
 | Essential Tier | 37 |
-| Standard Tier | 116 |
+| Standard Tier | 115 |
 | Comprehensive Tier | 2 |
 | Categories | 12 |
 
@@ -17,7 +17,7 @@ Curated offline PDF survival resource library for [Project NOMAD](https://github
 
 | Category | Count | Description |
 |----------|-------|-------------|
-| Education & Reference | 31 | General knowledge, homesteading, and educational materials |
+| Education & Reference | 30 | General knowledge, homesteading, and educational materials |
 | Preparedness & Planning | 27 | Emergency planning, checklists, bug-out preparation |
 | Food & Agriculture | 20 | Food preservation, foraging, trapping, agriculture |
 | Medicine & First Aid | 19 | Medical knowledge, first aid, field medicine |
@@ -48,7 +48,7 @@ nomad-survival-library/
 │   ├── download_manifest.json   # Download tracking and hash dedup records
 │   └── download_log.txt         # Download session log
 ├── pdfs/
-│   ├── education/               # 31 PDFs
+│   ├── education/               # 30 PDFs
 │   ├── preparedness/            # 27 PDFs
 │   ├── food-agriculture/        # 20 PDFs
 │   ├── medicine/                # 19 PDFs

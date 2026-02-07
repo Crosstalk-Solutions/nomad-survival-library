@@ -143,6 +143,34 @@ LOW_RELEVANCE_KEYWORDS = [
     "camping recipes", "native berry"
 ]
 
+# Political/conspiracy content filter
+# This library focuses on practical general knowledge. PDFs with overtly
+# political, partisan, or conspiracy-theory framing are excluded.
+# Note: Military manuals, government preparedness guides, and religious-origin
+# practical guides (e.g. LDS Preparedness Manual) are NOT political — they
+# teach practical skills without pushing an ideology.
+POLITICAL_EXCLUSION_KEYWORDS = [
+    "new world order", "deep state", "globalist agenda", "illuminati",
+    "government conspiracy", "one world government", "shadow government",
+    "sovereign citizen", "political manifesto", "anarchist cookbook",
+    "patriot movement", "militia movement", "insurrection",
+    "government tyranny", "gun control", "second amendment",
+    "great reset conspiracy", "martial law takeover", "wake up sheeple",
+    "false flag", "crisis actor", "truth movement",
+    "agenda 21", "agenda 2030 conspiracy", "fema camp",
+    "depopulation agenda", "chemtrail", "great replacement",
+]
+
+
+def check_political_content(title, filename):
+    """Check if a PDF title/filename indicates overtly political content.
+    Returns the matched keyword if political, or None if clean."""
+    combined = (title + " " + filename).lower()
+    for keyword in POLITICAL_EXCLUSION_KEYWORDS:
+        if keyword in combined:
+            return keyword
+    return None
+
 
 def categorize_pdf(title, filename):
     """Assign the best category based on title keywords."""
@@ -239,11 +267,19 @@ def main():
     catalog_items = []
     category_counts = {}
     tier_counts = {"essential": 0, "standard": 0, "comprehensive": 0}
+    excluded_political = []
 
     for item in manifest["items"]:
         title = item["title"]
         filename = item["filename"]
         size_bytes = item["size_bytes"]
+
+        # Political content filter — skip overtly political/conspiracy material
+        political_match = check_political_content(title, filename)
+        if political_match:
+            excluded_political.append((title, political_match))
+            print(f"  [EXCLUDED - POLITICAL] {title} (matched: \"{political_match}\")")
+            continue
 
         # Categorize
         category = categorize_pdf(title, filename)
@@ -308,6 +344,10 @@ def main():
     for tier, count in sorted(tier_counts.items()):
         print(f"    {tier:>15}: {count}")
     print(f"\n  Low relevance: {sum(1 for i in catalog_items if i['relevance'] == 'low')}")
+    if excluded_political:
+        print(f"\n  Excluded (political content): {len(excluded_political)}")
+        for title, keyword in excluded_political:
+            print(f"    - {title} (matched: \"{keyword}\")")
     print(f"{'='*60}")
     print(f"\nCatalog saved to: {CATALOG_FILE}")
 

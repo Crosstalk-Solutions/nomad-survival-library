@@ -4,10 +4,10 @@
   "description": "Curated offline PDF survival resource library for Project NOMAD",
   "generated": "2026-02-07T10:38:43.539047",
   "stats": {
-    "total_pdfs": 155,
+    "total_pdfs": 154,
     "categories": {
       "diy-repair": 6,
-      "education": 31,
+      "education": 30,
       "food-agriculture": 20,
       "medicine": 19,
       "military": 15,
@@ -21,10 +21,10 @@
     },
     "tiers": {
       "essential": 37,
-      "standard": 116,
+      "standard": 115,
       "comprehensive": 2
     },
-    "total_size_mb": 490.19
+    "total_size_mb": 488.97
   },
   "categories": [
     {
@@ -626,22 +626,6 @@
       "original_url": "https://archive.org/download/homesteading-survival-manuals/Special%20Forces%20Caching%20Techniques.pdf",
       "path": "pdfs/education/Special-Forces-Caching-Techniques.pdf",
       "pages": 25
-    },
-    {
-      "id": "surviving-the-new-world-order",
-      "title": "Surviving The New World Order",
-      "filename": "Surviving-The-New-World-Order.pdf",
-      "category": "education",
-      "tier": "standard",
-      "relevance": "high",
-      "summary": "Surviving The New World Order. Reference document providing guidance on education topics. Covers topics including water, food, survival, weapons, plants, radio. 20 pages, 1.22 MB.",
-      "size_bytes": 1279548,
-      "size_mb": 1.22,
-      "sha256": "afaba9b1ab8b80b2f38280baa4dc63df172b652202503537a6e94302d1e37e4f",
-      "source": "archive-org",
-      "original_url": "https://archive.org/download/homesteading-survival-manuals/Surviving%20The%20New%20World%20Order.pdf",
-      "path": "pdfs/education/Surviving-The-New-World-Order.pdf",
-      "pages": 20
     },
     {
       "id": "the-making-of-leather",
