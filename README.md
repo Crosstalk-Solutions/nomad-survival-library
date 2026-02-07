@@ -24,8 +24,8 @@ Curated offline PDF survival resource library for [Project NOMAD](https://github
 | Survival | 17 | Wilderness survival, bushcraft, general survival skills |
 | Military Manuals | 15 | Military field manuals, tactics, fieldcraft |
 | Nuclear / CBRN | 9 | Nuclear, chemical, biological threat preparation |
-| Shelter & Construction | 6 | Building shelters, fortifications, emergency structures |
 | DIY & Repair | 6 | Construction, repair, practical skills |
+| Shelter & Construction | 6 | Building shelters, fortifications, emergency structures |
 | Navigation & Communication | 2 | Map reading, compass use, radio communication |
 | Water & Sanitation | 2 | Water purification, hygiene, sanitation |
 | Quick Reference | 1 | Checklists, charts, and quick-reference cards |
@@ -43,7 +43,6 @@ Matches Project NOMAD's content tier system:
 ```
 nomad-survival-library/
 ├── README.md
-├── links.txt                    # Source URLs
 ├── catalog/
 │   ├── catalog.json             # Complete catalog with metadata, summaries, and scores
 │   ├── download_manifest.json   # Download tracking and hash dedup records
