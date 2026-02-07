@@ -6,9 +6,9 @@ Curated offline PDF survival resource library for [Project NOMAD](https://github
 
 | Metric | Value |
 |--------|-------|
-| Total PDFs | 108 |
-| Total Size | ~398 MB |
-| Essential Tier | 31 |
+| Total PDFs | 109 |
+| Total Size | ~402 MB |
+| Essential Tier | 32 |
 | Standard Tier | 76 |
 | Comprehensive Tier | 1 |
 | Categories | 12 |
@@ -22,7 +22,7 @@ Curated offline PDF survival resource library for [Project NOMAD](https://github
 | Military Manuals | 14 | Military field manuals, tactics, fieldcraft |
 | Nuclear / CBRN | 9 | Nuclear, chemical, biological threat preparation |
 | Food & Agriculture | 9 | Food preservation, foraging, trapping, agriculture |
-| Medicine & First Aid | 7 | Medical knowledge, first aid, field medicine |
+| Medicine & First Aid | 8 | Medical knowledge, first aid, field medicine |
 | Shelter & Construction | 6 | Building shelters, fortifications, emergency structures |
 | Education & Reference | 6 | General knowledge and educational materials |
 | DIY & Repair | 3 | Construction, repair, practical skills |
@@ -50,7 +50,7 @@ nomad-survival-library/
 │   └── download_log.txt         # Download session log
 ├── pdfs/
 │   ├── survival/                # 23 PDFs
-│   ├── medicine/                # 7 PDFs
+│   ├── medicine/                # 8 PDFs
 │   ├── preparedness/            # 25 PDFs
 │   ├── military/                # 14 PDFs
 │   ├── nuclear-cbrn/            # 9 PDFs
